@@ -50,6 +50,8 @@ status-website:
   name: Weblate Status
   introTitle: Weblate Status Dashboard
   introMessage: You can find more information about Weblate on [weblate.org](https://weblate.org/) or you check our [hosting plans](https://weblate.org/hosting/).
+  favicon: https://s.weblate.org/cdn/logo-128.png
+  faviconSvg: https://s.weblate.org/cdn/weblate.svg
   navbar:
     - title: Status
       href: /upptime-test/
