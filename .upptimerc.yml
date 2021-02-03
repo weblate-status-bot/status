@@ -59,7 +59,7 @@ status-website:
   css: "body { font-family: 'Source Sans Pro', Arial, sans-serif; }"
   navbar:
     - title: Status
-      href: /upptime-test/
+      href: /upptime-test
     - title: Support
       href: https://weblate.org/support/
     - title: GitHub
