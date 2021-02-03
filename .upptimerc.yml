@@ -47,7 +47,7 @@ status-website:
   #cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime-test
-  logoUrl: https://s.weblate.org/cdn/weblate.svg
+  logoUrl: https://s.weblate.org/cdn/Logo-Darktext.png
   name: Weblate Status
   introTitle: Weblate Status Dashboard
   introMessage: You can find more information about Weblate on [weblate.org](https://weblate.org/) or you check our [hosting plans](https://weblate.org/hosting/).
@@ -56,7 +56,38 @@ status-website:
   links:
     - rel: stylesheet
       href: https://s.weblate.org/cdn/font-source/source-sans-pro.css
-  css: "body { font-family: 'Source Sans Pro', Arial, sans-serif; }"
+  css: |
+    body {
+      font-family: 'Source Sans Pro', Arial, sans-serif;
+      font-weight: 400;
+      font-size: 18px;
+    }
+    a.svelte-a08hsz {
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 23px;
+    }
+    h1 {
+      font-size: 40px;
+      font-weight: bold;
+      letter-spacing: -1px;
+    }
+    h2 {
+      font-size: 26px;
+      font-weight: 400;
+      letter-spacing: -0.5px;
+    }
+    h4 {
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+    }
+    .logo.svelte-a08hsz div {
+      display: none;
+    }
+    .logo.svelte-a08hsz img {
+      height: 100px;
+    }
   navbar:
     - title: Status
       href: /upptime-test
