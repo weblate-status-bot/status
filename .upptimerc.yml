@@ -58,7 +58,7 @@ status-website:
     body {
       font-family: 'Source Sans Pro', Arial, sans-serif;
     }
-    <style>
+    </style>
   navbar:
     - title: Status
       href: /upptime-test/
