@@ -52,13 +52,10 @@ status-website:
   introMessage: You can find more information about Weblate on [weblate.org](https://weblate.org/) or you check our [hosting plans](https://weblate.org/hosting/).
   favicon: https://s.weblate.org/cdn/logo-128.png
   faviconSvg: https://s.weblate.org/cdn/weblate.svg
-  customHeadHtml: |
-    <style>
-    @import url("https://s.weblate.org/cdn/font-source/source-sans-pro.css");
-    body {
-      font-family: 'Source Sans Pro', Arial, sans-serif;
-    }
-    </style>
+  links:
+    - rel: stylesheet
+      href: https://s.weblate.org/cdn/font-source/source-sans-pro.css
+  css: "body { font-family: 'Source Sans Pro', Arial, sans-serif; }"
   navbar:
     - title: Status
       href: /upptime-test/
