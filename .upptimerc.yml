@@ -85,7 +85,7 @@ status-website:
     .logo.svelte-a08hsz div {
       display: none;
     }
-    .logo.svelte-a08hsz img {
+    .logo.svelte-a08hsz img.svelte-a08hsz {
       height: 100px;
     }
   navbar:
