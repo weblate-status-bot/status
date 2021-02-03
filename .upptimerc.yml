@@ -1,6 +1,7 @@
 # Change these first
 owner: nijel # Your GitHub username
 repo: upptime-test # Your GitHub repository name
+user-agent: weblate-status-bot
 
 # Add your sites here
 sites:
