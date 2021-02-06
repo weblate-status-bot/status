@@ -1,0 +1,13 @@
+name: Gotify
+on:
+  issue_comment:
+    types: [created, deleted]
+jobs:
+  issue-commented:
+    name: Issue comment
+    if: ${{ !github.event.issue.pull_request }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify
+        run: |
+          curl "https://gotify.weblate.org/message?token=${{ secrets.GOTIFY_TOKEN }}" --data "title=${{ github.event.issue.title }}" --data "message=${{ github.event.comment.body }}"
