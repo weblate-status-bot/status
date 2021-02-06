@@ -46,7 +46,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   #cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /upptime-test
+  baseUrl: /status
   logoUrl: https://s.weblate.org/cdn/Logo-Darktext.png
   name: Weblate Status
   introTitle: Weblate Status Dashboard
