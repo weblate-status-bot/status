@@ -1,7 +1,8 @@
-name: Gotify
+name: Gotify comment
 on:
   issue_comment:
-    types: [created, deleted]
+    types: [created]
+
 jobs:
   issue-commented:
     name: Issue comment
@@ -10,4 +11,4 @@ jobs:
     steps:
       - name: Notify
         run: |
-          curl "https://gotify.weblate.org/message?token=${{ secrets.GOTIFY_TOKEN }}" --data "title=${{ github.event.issue.title }}" --data "message=${{ github.event.comment.body }}"
+          curl "https://gotify.weblate.org/message?token=${{ secrets.GOTIFY_TOKEN }}" --data "title=${{ github.event.issue.title }} updated" --data "message=${{ github.event.comment.body }}"
