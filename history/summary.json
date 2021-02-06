@@ -4,18 +4,20 @@
     "url": "https://hosted.weblate.org",
     "icon": "https://favicons.githubusercontent.com/hosted.weblate.org",
     "slug": "hosted-weblate",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 993,
-    "timeDay": 887,
-    "timeWeek": 993,
-    "timeMonth": 993,
-    "timeYear": 993,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 963,
+    "timeDay": 651,
+    "timeWeek": 963,
+    "timeMonth": 963,
+    "timeYear": 963,
+    "dailyMinutesDown": {
+      "2021-02-06": 0
+    }
   },
   {
     "name": "Weblate Care",
