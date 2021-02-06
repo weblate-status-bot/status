@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Notify
         run: |
-          curl "https://gotify.weblate.org/message?token=${{ secrets.GOTIFY_TOKEN }}" --data "title=${{ github.event.issue.title }} ${{ github.event.action }}" --data "message=${{ github.event.issue.body }}"
+          curl "https://gotify.weblate.org/message?token=${{ secrets.GOTIFY_TOKEN }}" --data 'title=${{ github.event.issue.title }} ${{ github.event.action }}' --data 'message=${{ github.event.issue.body }}'
