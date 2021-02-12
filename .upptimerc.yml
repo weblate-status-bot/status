@@ -41,6 +41,8 @@ sites:
     url: https://medvice.weblate.cloud/
   - name: Sourceability Weblate
     url: https://sourceability.weblate.cloud/
+  - name: Vernier Weblate
+    url: https://vernier.weblate.cloud/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
