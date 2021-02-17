@@ -46,7 +46,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: status2.weblate.org
+  cname: status.weblate.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   #baseUrl: /status
   logoUrl: https://s.weblate.org/cdn/Logo-Darktext.png
