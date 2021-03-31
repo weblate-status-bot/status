@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/hosted.weblate.org",
     "slug": "hosted-weblate",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 964,
-    "timeDay": 712,
-    "timeWeek": 1070,
-    "timeMonth": 912,
-    "timeYear": 964,
+    "uptimeYear": "99.60%",
+    "time": 965,
+    "timeDay": 1019,
+    "timeWeek": 996,
+    "timeMonth": 915,
+    "timeYear": 965,
     "dailyMinutesDown": {
       "2021-02-14": 4,
       "2021-02-06": 320
@@ -26,20 +26,17 @@
     "icon": "https://favicons.githubusercontent.com/care.weblate.org",
     "slug": "weblate-care",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 427,
-    "timeDay": 370,
-    "timeWeek": 469,
-    "timeMonth": 435,
-    "timeYear": 427,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 431,
+    "timeDay": 725,
+    "timeWeek": 517,
+    "timeMonth": 444,
+    "timeYear": 431,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Weblate Documentation",
@@ -47,20 +44,17 @@
     "icon": "https://favicons.githubusercontent.com/docs.weblate.org",
     "slug": "weblate-documentation",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 215,
-    "timeDay": 312,
-    "timeWeek": 415,
-    "timeMonth": 293,
-    "timeYear": 215,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 220,
+    "timeDay": 633,
+    "timeWeek": 471,
+    "timeMonth": 304,
+    "timeYear": 220,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Weblate website",
@@ -73,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 511,
-    "timeWeek": 666,
-    "timeMonth": 595,
-    "timeYear": 578,
+    "time": 582,
+    "timeDay": 856,
+    "timeWeek": 687,
+    "timeMonth": 603,
+    "timeYear": 582,
     "dailyMinutesDown": {}
   },
   {
@@ -86,20 +80,17 @@
     "icon": "https://favicons.githubusercontent.com/weblate-cdn.com",
     "slug": "weblate-cdn",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 129,
-    "timeDay": 123,
-    "timeWeek": 257,
-    "timeMonth": 161,
-    "timeYear": 129,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 131,
+    "timeDay": 228,
+    "timeWeek": 240,
+    "timeMonth": 163,
+    "timeYear": 131,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fedora Weblate",
@@ -107,20 +98,17 @@
     "icon": "https://favicons.githubusercontent.com/translate.fedoraproject.org",
     "slug": "fedora-weblate",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 1027,
-    "timeDay": 841,
-    "timeWeek": 1026,
-    "timeMonth": 1027,
-    "timeYear": 1027,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 1029,
+    "timeDay": 1172,
+    "timeWeek": 1005,
+    "timeMonth": 1031,
+    "timeYear": 1029,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rocky Linux Weblate",
@@ -128,20 +116,17 @@
     "icon": "https://favicons.githubusercontent.com/translate.rockylinux.org",
     "slug": "rocky-linux-weblate",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 604,
-    "timeDay": 544,
-    "timeWeek": 667,
-    "timeMonth": 621,
-    "timeYear": 604,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 606,
+    "timeDay": 759,
+    "timeWeek": 684,
+    "timeMonth": 625,
+    "timeYear": 606,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kodi Weblate",
@@ -149,20 +134,17 @@
     "icon": "https://favicons.githubusercontent.com/kodi.weblate.cloud",
     "slug": "kodi-weblate",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "100.00%",
     "time": 1002,
-    "timeDay": 708,
-    "timeWeek": 762,
-    "timeMonth": 1223,
+    "timeDay": 995,
+    "timeWeek": 792,
+    "timeMonth": 1218,
     "timeYear": 1002,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dyson Weblate",
@@ -170,20 +152,17 @@
     "icon": "https://favicons.githubusercontent.com/dyson.weblate.org",
     "slug": "dyson-weblate",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 596,
-    "timeDay": 535,
-    "timeWeek": 668,
-    "timeMonth": 603,
-    "timeYear": 596,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 599,
+    "timeDay": 795,
+    "timeWeek": 702,
+    "timeMonth": 609,
+    "timeYear": 599,
+    "dailyMinutesDown": {}
   },
   {
     "name": "EURid Weblate",
@@ -191,20 +170,17 @@
     "icon": "https://favicons.githubusercontent.com/weblate.eurid.eu",
     "slug": "eu-rid-weblate",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 695,
-    "timeDay": 533,
-    "timeWeek": 740,
-    "timeMonth": 735,
-    "timeYear": 695,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 698,
+    "timeDay": 898,
+    "timeWeek": 789,
+    "timeMonth": 740,
+    "timeYear": 698,
+    "dailyMinutesDown": {}
   },
   {
     "name": "EURid Weblate (staging)",
@@ -212,20 +188,17 @@
     "icon": "https://favicons.githubusercontent.com/weblate-test.eurid.eu",
     "slug": "eu-rid-weblate-staging",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 691,
-    "timeDay": 669,
-    "timeWeek": 746,
-    "timeMonth": 721,
-    "timeYear": 691,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 694,
+    "timeDay": 900,
+    "timeWeek": 749,
+    "timeMonth": 726,
+    "timeYear": 694,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Solocoo Weblate",
@@ -233,20 +206,17 @@
     "icon": "https://favicons.githubusercontent.com/translate.solocoo.tv",
     "slug": "solocoo-weblate",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 705,
-    "timeDay": 660,
-    "timeWeek": 721,
-    "timeMonth": 708,
-    "timeYear": 705,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 707,
+    "timeDay": 854,
+    "timeWeek": 750,
+    "timeMonth": 713,
+    "timeYear": 707,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lime Weblate",
@@ -254,20 +224,17 @@
     "icon": "https://favicons.githubusercontent.com/translate.lime.tech",
     "slug": "lime-weblate",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 657,
-    "timeDay": 595,
-    "timeWeek": 681,
-    "timeMonth": 681,
-    "timeYear": 657,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 659,
+    "timeDay": 823,
+    "timeWeek": 716,
+    "timeMonth": 686,
+    "timeYear": 659,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mattermost Weblate",
@@ -275,20 +242,17 @@
     "icon": "https://favicons.githubusercontent.com/translate.mattermost.com",
     "slug": "mattermost-weblate",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 640,
-    "timeDay": 579,
-    "timeWeek": 697,
-    "timeMonth": 654,
-    "timeYear": 640,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 642,
+    "timeDay": 831,
+    "timeWeek": 732,
+    "timeMonth": 659,
+    "timeYear": 642,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bon Weblate",
@@ -296,20 +260,17 @@
     "icon": "https://favicons.githubusercontent.com/bon.weblate.cloud",
     "slug": "bon-weblate",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 575,
-    "timeDay": 560,
-    "timeWeek": 641,
-    "timeMonth": 587,
-    "timeYear": 575,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 579,
+    "timeDay": 830,
+    "timeWeek": 684,
+    "timeMonth": 594,
+    "timeYear": 579,
+    "dailyMinutesDown": {}
   },
   {
     "name": "UL Weblate",
@@ -317,20 +278,17 @@
     "icon": "https://favicons.githubusercontent.com/ul.weblate.cloud",
     "slug": "ul-weblate",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 944,
-    "timeDay": 876,
-    "timeWeek": 1033,
-    "timeMonth": 961,
-    "timeYear": 944,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 948,
+    "timeDay": 1255,
+    "timeWeek": 1084,
+    "timeMonth": 970,
+    "timeYear": 948,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Medvice Weblate",
@@ -338,20 +296,17 @@
     "icon": "https://favicons.githubusercontent.com/medvice.weblate.cloud",
     "slug": "medvice-weblate",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 544,
-    "timeDay": 470,
-    "timeWeek": 601,
-    "timeMonth": 554,
-    "timeYear": 544,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 547,
+    "timeDay": 779,
+    "timeWeek": 627,
+    "timeMonth": 560,
+    "timeYear": 547,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sourceability Weblate",
@@ -359,20 +314,17 @@
     "icon": "https://favicons.githubusercontent.com/sourceability.weblate.cloud",
     "slug": "sourceability-weblate",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 547,
-    "timeDay": 502,
-    "timeWeek": 604,
-    "timeMonth": 547,
-    "timeYear": 547,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 550,
+    "timeDay": 752,
+    "timeWeek": 638,
+    "timeMonth": 553,
+    "timeYear": 550,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vernier Weblate",
@@ -380,20 +332,17 @@
     "icon": "https://favicons.githubusercontent.com/vernier.weblate.cloud",
     "slug": "vernier-weblate",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.50%",
-    "time": 547,
-    "timeDay": 490,
-    "timeWeek": 604,
-    "timeMonth": 554,
-    "timeYear": 547,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 551,
+    "timeDay": 770,
+    "timeWeek": 634,
+    "timeMonth": 560,
+    "timeYear": 551,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Syncron weblate",
@@ -401,19 +350,16 @@
     "icon": "https://favicons.githubusercontent.com/syncron.weblate.cloud",
     "slug": "syncron-weblate",
     "status": "up",
-    "uptime": "95.87%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.87%",
-    "time": 617,
-    "timeDay": 557,
-    "timeWeek": 617,
-    "timeMonth": 617,
-    "timeYear": 617,
-    "dailyMinutesDown": {
-      "2021-02-14": 4,
-      "2021-02-06": 320
-    }
+    "uptimeYear": "100.00%",
+    "time": 630,
+    "timeDay": 749,
+    "timeWeek": 630,
+    "timeMonth": 630,
+    "timeYear": 630,
+    "dailyMinutesDown": {}
   }
 ]
