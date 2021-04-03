@@ -4,7 +4,7 @@
     "url": "https://hosted.weblate.org",
     "icon": "https://favicons.githubusercontent.com/hosted.weblate.org",
     "slug": "hosted-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -141,7 +141,7 @@
     "uptimeYear": "100.00%",
     "time": 996,
     "timeDay": 635,
-    "timeWeek": 774,
+    "timeWeek": 842,
     "timeMonth": 1223,
     "timeYear": 996,
     "dailyMinutesDown": {}
@@ -195,7 +195,7 @@
     "uptimeYear": "100.00%",
     "time": 696,
     "timeDay": 585,
-    "timeWeek": 770,
+    "timeWeek": 789,
     "timeMonth": 738,
     "timeYear": 696,
     "dailyMinutesDown": {}
@@ -303,7 +303,7 @@
     "uptimeYear": "100.00%",
     "time": 549,
     "timeDay": 463,
-    "timeWeek": 602,
+    "timeWeek": 616,
     "timeMonth": 570,
     "timeYear": 549,
     "dailyMinutesDown": {}
