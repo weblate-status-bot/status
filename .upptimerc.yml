@@ -43,8 +43,10 @@ sites:
     url: https://sourceability.weblate.cloud/
   - name: Vernier Weblate
     url: https://vernier.weblate.cloud/
-  - name: Syncron weblate
+  - name: Syncron Weblate
     url: https://syncron.weblate.cloud/
+  - name: Profil Klett Weblate
+    url: https://profil-klett.weblate.cloud/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
