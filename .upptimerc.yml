@@ -43,7 +43,7 @@ sites:
     url: https://sourceability.weblate.cloud/
   - name: Vernier Weblate
     url: https://vernier.weblate.cloud/
-  - name: Syncron weblate
+  - name: Syncron Weblate
     url: https://syncron.weblate.cloud/
   - name: Profil Klett Weblate
     url: https://profil-klett.weblate.cloud/
