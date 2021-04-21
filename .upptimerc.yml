@@ -7,46 +7,65 @@ user-agent: weblate-status-bot
 sites:
   - name: Hosted Weblate
     url: https://hosted.weblate.org
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Weblate Care
     url: https://care.weblate.org
   - name: Weblate Documentation
     url: https://docs.weblate.org
   - name: Weblate website
     url: https://weblate.org/en/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Weblate CDN
     url: https://weblate-cdn.com/a5ba5dc29f39498aa734528a54b50d0a/weblate.js
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Fedora Weblate
     url: https://translate.fedoraproject.org/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Rocky Linux Weblate
     url: https://translate.rockylinux.org/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Kodi Weblate
     url: https://kodi.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Dyson Weblate
     url: https://dyson.weblate.org/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: EURid Weblate
     url: https://weblate.eurid.eu/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: EURid Weblate (staging)
     url: https://weblate-test.eurid.eu/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Solocoo Weblate
     url: https://translate.solocoo.tv/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Lime Weblate
     url: https://translate.lime.tech/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Mattermost Weblate
     url: https://translate.mattermost.com/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Bon Weblate
     url: https://bon.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: UL Weblate
     url: https://ul.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Medvice Weblate
     url: https://medvice.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Sourceability Weblate
     url: https://sourceability.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Vernier Weblate
     url: https://vernier.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Syncron Weblate
     url: https://syncron.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Profil Klett Weblate
     url: https://profil-klett.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
