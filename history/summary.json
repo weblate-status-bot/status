@@ -133,9 +133,9 @@
     "url": "https://kodi.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "kodi-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,7 +144,9 @@
     "timeWeek": 715,
     "timeMonth": 755,
     "timeYear": 926,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-03": 0
+    }
   },
   {
     "name": "Dyson Weblate",
