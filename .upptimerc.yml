@@ -21,9 +21,9 @@ sites:
   - name: Fedora Weblate
     url: https://translate.fedoraproject.org/
     icon: https://s.weblate.org/cdn/logo-32.png
-  - name: Rocky Linux Weblate
-    url: https://translate.rockylinux.org/
-    icon: https://s.weblate.org/cdn/logo-32.png
+#  - name: Rocky Linux Weblate
+#    url: https://translate.rockylinux.org/
+#    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Kodi Weblate
     url: https://kodi.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
