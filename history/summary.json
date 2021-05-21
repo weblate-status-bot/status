@@ -13,7 +13,7 @@
     "time": 1923,
     "timeDay": 1116,
     "timeWeek": 1438,
-    "timeMonth": 1049,
+    "timeMonth": 1056,
     "timeYear": 1923,
     "dailyMinutesDown": {
       "2021-02-14": 4,
@@ -34,7 +34,7 @@
     "time": 429,
     "timeDay": 382,
     "timeWeek": 416,
-    "timeMonth": 421,
+    "timeMonth": 424,
     "timeYear": 429,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,7 @@
     "time": 284,
     "timeDay": 260,
     "timeWeek": 641,
-    "timeMonth": 399,
+    "timeMonth": 404,
     "timeYear": 284,
     "dailyMinutesDown": {}
   },
@@ -70,7 +70,7 @@
     "time": 608,
     "timeDay": 553,
     "timeWeek": 628,
-    "timeMonth": 635,
+    "timeMonth": 639,
     "timeYear": 608,
     "dailyMinutesDown": {}
   },
@@ -88,7 +88,7 @@
     "time": 219,
     "timeDay": 82,
     "timeWeek": 283,
-    "timeMonth": 335,
+    "timeMonth": 344,
     "timeYear": 219,
     "dailyMinutesDown": {}
   },
@@ -97,18 +97,20 @@
     "url": "https://translate.fedoraproject.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "fedora-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1037,
     "timeDay": 847,
     "timeWeek": 1127,
-    "timeMonth": 1112,
+    "timeMonth": 1065,
     "timeYear": 1037,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-21": 0
+    }
   },
   {
     "name": "Kodi Weblate",
@@ -124,7 +126,7 @@
     "time": 905,
     "timeDay": 693,
     "timeWeek": 767,
-    "timeMonth": 767,
+    "timeMonth": 770,
     "timeYear": 905,
     "dailyMinutesDown": {
       "2021-05-03": 30
@@ -144,7 +146,7 @@
     "time": 618,
     "timeDay": 681,
     "timeWeek": 630,
-    "timeMonth": 646,
+    "timeMonth": 650,
     "timeYear": 618,
     "dailyMinutesDown": {}
   },
@@ -162,7 +164,7 @@
     "time": 706,
     "timeDay": 627,
     "timeWeek": 691,
-    "timeMonth": 687,
+    "timeMonth": 693,
     "timeYear": 706,
     "dailyMinutesDown": {}
   },
@@ -180,7 +182,7 @@
     "time": 678,
     "timeDay": 537,
     "timeWeek": 648,
-    "timeMonth": 641,
+    "timeMonth": 645,
     "timeYear": 678,
     "dailyMinutesDown": {}
   },
@@ -198,7 +200,7 @@
     "time": 697,
     "timeDay": 619,
     "timeWeek": 679,
-    "timeMonth": 685,
+    "timeMonth": 687,
     "timeYear": 697,
     "dailyMinutesDown": {}
   },
@@ -216,7 +218,7 @@
     "time": 666,
     "timeDay": 536,
     "timeWeek": 690,
-    "timeMonth": 669,
+    "timeMonth": 671,
     "timeYear": 666,
     "dailyMinutesDown": {}
   },
@@ -234,7 +236,7 @@
     "time": 657,
     "timeDay": 732,
     "timeWeek": 690,
-    "timeMonth": 674,
+    "timeMonth": 677,
     "timeYear": 657,
     "dailyMinutesDown": {}
   },
@@ -252,7 +254,7 @@
     "time": 588,
     "timeDay": 524,
     "timeWeek": 593,
-    "timeMonth": 597,
+    "timeMonth": 599,
     "timeYear": 588,
     "dailyMinutesDown": {}
   },
@@ -270,7 +272,7 @@
     "time": 953,
     "timeDay": 831,
     "timeWeek": 975,
-    "timeMonth": 953,
+    "timeMonth": 958,
     "timeYear": 953,
     "dailyMinutesDown": {}
   },
@@ -288,7 +290,7 @@
     "time": 556,
     "timeDay": 536,
     "timeWeek": 558,
-    "timeMonth": 564,
+    "timeMonth": 567,
     "timeYear": 556,
     "dailyMinutesDown": {}
   },
@@ -306,7 +308,7 @@
     "time": 562,
     "timeDay": 528,
     "timeWeek": 586,
-    "timeMonth": 577,
+    "timeMonth": 579,
     "timeYear": 562,
     "dailyMinutesDown": {}
   },
@@ -324,7 +326,7 @@
     "time": 559,
     "timeDay": 487,
     "timeWeek": 561,
-    "timeMonth": 563,
+    "timeMonth": 566,
     "timeYear": 559,
     "dailyMinutesDown": {}
   },
@@ -342,7 +344,7 @@
     "time": 572,
     "timeDay": 494,
     "timeWeek": 563,
-    "timeMonth": 559,
+    "timeMonth": 562,
     "timeYear": 572,
     "dailyMinutesDown": {}
   },
@@ -360,7 +362,7 @@
     "time": 662,
     "timeDay": 590,
     "timeWeek": 670,
-    "timeMonth": 667,
+    "timeMonth": 670,
     "timeYear": 662,
     "dailyMinutesDown": {}
   },
