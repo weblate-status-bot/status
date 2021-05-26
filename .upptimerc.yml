@@ -21,9 +21,6 @@ sites:
   - name: Fedora Weblate
     url: https://translate.fedoraproject.org/
     icon: https://s.weblate.org/cdn/logo-32.png
-#  - name: Rocky Linux Weblate
-#    url: https://translate.rockylinux.org/
-#    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Kodi Weblate
     url: https://kodi.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
@@ -59,9 +56,6 @@ sites:
     icon: https://s.weblate.org/cdn/logo-32.png
   - name: Vernier Weblate
     url: https://vernier.weblate.cloud/
-    icon: https://s.weblate.org/cdn/logo-32.png
-  - name: Syncron Weblate
-    url: https://syncron.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
   - name: Profil Klett Weblate
     url: https://profil-klett.weblate.cloud/
