@@ -97,10 +97,10 @@
     "url": "https://translate.fedoraproject.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "fedora-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1075,
@@ -109,6 +109,7 @@
     "timeMonth": 1231,
     "timeYear": 1075,
     "dailyMinutesDown": {
+      "2021-06-15": 1,
       "2021-05-21": 18
     }
   },
@@ -117,10 +118,10 @@
     "url": "https://kodi.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "kodi-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 886,
@@ -129,6 +130,7 @@
     "timeMonth": 776,
     "timeYear": 886,
     "dailyMinutesDown": {
+      "2021-06-15": 1,
       "2021-05-03": 30
     }
   },
@@ -284,12 +286,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 559,
     "timeDay": 496,
-    "timeWeek": 550,
+    "timeWeek": 557,
     "timeMonth": 565,
     "timeYear": 559,
     "dailyMinutesDown": {
@@ -323,12 +325,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 562,
     "timeDay": 529,
-    "timeWeek": 563,
+    "timeWeek": 569,
     "timeMonth": 565,
     "timeYear": 562,
     "dailyMinutesDown": {
