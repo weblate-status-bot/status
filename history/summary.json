@@ -4,9 +4,9 @@
     "url": "https://hosted.weblate.org",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "hosted-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
@@ -16,6 +16,7 @@
     "timeMonth": 1294,
     "timeYear": 1733,
     "dailyMinutesDown": {
+      "2021-07-05": 0,
       "2021-02-14": 4,
       "2021-02-06": 320
     }
