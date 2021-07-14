@@ -44,19 +44,19 @@
     "url": "https://docs.weblate.org",
     "icon": "https://favicons.githubusercontent.com/docs.weblate.org",
     "slug": "weblate-documentation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.84%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.97%",
     "time": 308,
-    "timeDay": 302,
-    "timeWeek": 508,
-    "timeMonth": 352,
+    "timeDay": 275,
+    "timeWeek": 482,
+    "timeMonth": 348,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2021-07-14": 0
+      "2021-07-14": 60
     }
   },
   {
