@@ -4,18 +4,19 @@
     "url": "https://hosted.weblate.org",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "hosted-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.84%",
     "time": 1802,
     "timeDay": 973,
-    "timeWeek": 1125,
-    "timeMonth": 2002,
+    "timeWeek": 1048,
+    "timeMonth": 2025,
     "timeYear": 1802,
     "dailyMinutesDown": {
+      "2021-07-31": 2,
       "2021-07-22": 28,
       "2021-07-15": 17,
       "2021-07-05": 31,
@@ -123,10 +124,10 @@
     "url": "https://kodi.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "kodi-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 859,
@@ -135,6 +136,7 @@
     "timeMonth": 785,
     "timeYear": 859,
     "dailyMinutesDown": {
+      "2021-07-31": 2,
       "2021-06-15": 17,
       "2021-05-03": 30
     }
@@ -144,10 +146,10 @@
     "url": "https://dyson.weblate.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "dyson-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 630,
@@ -155,7 +157,9 @@
     "timeWeek": 636,
     "timeMonth": 654,
     "timeYear": 630,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-31": 2
+    }
   },
   {
     "name": "EURid Weblate",
@@ -207,7 +211,7 @@
     "time": 700,
     "timeDay": 697,
     "timeWeek": 732,
-    "timeMonth": 716,
+    "timeMonth": 709,
     "timeYear": 700,
     "dailyMinutesDown": {}
   },
@@ -216,18 +220,20 @@
     "url": "https://translate.lime.tech/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "lime-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 678,
     "timeDay": 674,
     "timeWeek": 679,
-    "timeMonth": 725,
+    "timeMonth": 688,
     "timeYear": 678,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-31": 1
+    }
   },
   {
     "name": "Mattermost Weblate",
@@ -270,10 +276,10 @@
     "url": "https://ul.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "ul-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 956,
@@ -281,17 +287,19 @@
     "timeWeek": 983,
     "timeMonth": 971,
     "timeYear": 956,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-31": 1
+    }
   },
   {
     "name": "Medvice Weblate",
     "url": "https://medvice.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "medvice-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 560,
@@ -300,6 +308,7 @@
     "timeMonth": 575,
     "timeYear": 560,
     "dailyMinutesDown": {
+      "2021-07-31": 1,
       "2021-06-09": 18,
       "2021-06-08": 23
     }
@@ -347,9 +356,9 @@
     "url": "https://profil-klett.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "profil-klett-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -358,7 +367,9 @@
     "timeWeek": 697,
     "timeMonth": 718,
     "timeYear": 677,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-31": 0
+    }
   },
   {
     "name": "Preventis Weblate",
