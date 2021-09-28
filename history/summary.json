@@ -107,9 +107,9 @@
     "slug": "fedora-weblate",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1042,
     "timeDay": 930,
@@ -117,7 +117,6 @@
     "timeMonth": 983,
     "timeYear": 1042,
     "dailyMinutesDown": {
-      "2021-09-27": 12,
       "2021-09-08": 2,
       "2021-06-15": 18,
       "2021-05-21": 18
