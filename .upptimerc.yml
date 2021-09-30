@@ -18,6 +18,10 @@ sites:
   - name: Weblate CDN
     url: https://weblate-cdn.com/a5ba5dc29f39498aa734528a54b50d0a/weblate.js
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Weblate Cloud Backup Service
+    check: "tcp-ping"
+    url: u164666-sub5.your-storagebox.de
+    port: 23
   - name: Fedora Weblate
     url: https://translate.fedoraproject.org/
     icon: https://s.weblate.org/cdn/logo-32.png
@@ -78,10 +82,6 @@ sites:
   - name: Universal Music Weblate
     url: https://umusic.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
-  - name: Cloud Backup Service
-    check: "tcp-ping"
-    url: u164666-sub5.your-storagebox.de
-    port: 23
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
