@@ -11,8 +11,8 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.86%",
     "time": 1745,
-    "timeDay": 3107,
-    "timeWeek": 1454,
+    "timeDay": 4411,
+    "timeWeek": 1498,
     "timeMonth": 1660,
     "timeYear": 1745,
     "dailyMinutesDown": {
@@ -312,9 +312,9 @@
     "url": "https://medvice.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "medvice-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -324,6 +324,7 @@
     "timeMonth": 583,
     "timeYear": 570,
     "dailyMinutesDown": {
+      "2021-10-05": 0,
       "2021-06-09": 18,
       "2021-06-08": 23
     }
