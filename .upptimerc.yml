@@ -79,9 +79,9 @@ sites:
   - name: Oxfam Weblate
     url: https://oxfam.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
-  - name: Universal Music Weblate
-    url: https://umusic.weblate.cloud/
-    icon: https://s.weblate.org/cdn/logo-32.png
+#  - name: Universal Music Weblate
+#    url: https://umusic.weblate.cloud/
+#    icon: https://s.weblate.org/cdn/logo-32.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
