@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.85%",
     "time": 1791,
     "timeDay": 812,
-    "timeWeek": 3371,
+    "timeWeek": 3638,
     "timeMonth": 1631,
     "timeYear": 1791,
     "dailyMinutesDown": {
@@ -427,9 +427,9 @@
     "url": "https://weblate.shopopop.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "shopop-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -438,7 +438,9 @@
     "timeWeek": 750,
     "timeMonth": 731,
     "timeYear": 746,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 0
+    }
   },
   {
     "name": "Shayp Weblate",
