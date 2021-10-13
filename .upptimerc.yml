@@ -20,7 +20,7 @@ sites:
     icon: https://s.weblate.org/cdn/logo-32.png
   - name: Weblate Cloud Backup Service
     check: "tcp-ping"
-    url: u164666-sub5.your-storagebox.de
+    url: backups.weblate.cloud
     port: 23
   - name: Fedora Weblate
     url: https://translate.fedoraproject.org/
