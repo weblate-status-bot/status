@@ -35,19 +35,19 @@
     "url": "https://care.weblate.org",
     "icon": "https://favicons.githubusercontent.com/care.weblate.org",
     "slug": "weblate-care",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 450,
-    "timeDay": 475,
-    "timeWeek": 503,
-    "timeMonth": 479,
+    "timeDay": 496,
+    "timeWeek": 507,
+    "timeMonth": 481,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2021-10-27": 0
+      "2021-10-27": 12
     }
   },
   {
