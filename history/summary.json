@@ -11,9 +11,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.85%",
     "time": 1826,
-    "timeDay": 1511,
+    "timeDay": 1781,
     "timeWeek": 3436,
-    "timeMonth": 2196,
+    "timeMonth": 2228,
     "timeYear": 1826,
     "dailyMinutesDown": {
       "2021-10-25": 33,
@@ -35,18 +35,20 @@
     "url": "https://care.weblate.org",
     "icon": "https://favicons.githubusercontent.com/care.weblate.org",
     "slug": "weblate-care",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 450,
-    "timeDay": 457,
-    "timeWeek": 504,
+    "timeDay": 475,
+    "timeWeek": 503,
     "timeMonth": 479,
     "timeYear": 450,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-27": 0
+    }
   },
   {
     "name": "Weblate Documentation",
