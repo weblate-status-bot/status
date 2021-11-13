@@ -80,9 +80,9 @@ sites:
   - name: Oxfam Weblate
     url: https://oxfam.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
-#  - name: Universal Music Weblate
-#    url: https://umusic.weblate.cloud/
-#    icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Universal Music Weblate
+    url: https://umusic.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Doka Weblate
     url: https://translation.umdaschgroup.com
     icon: https://s.weblate.org/cdn/logo-32.png
