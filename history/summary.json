@@ -13,7 +13,7 @@
     "time": 1879,
     "timeDay": 1004,
     "timeWeek": 1974,
-    "timeMonth": 2543,
+    "timeMonth": 2562,
     "timeYear": 1879,
     "dailyMinutesDown": {
       "2021-11-04": 20,
@@ -153,16 +153,16 @@
     "url": "https://kodi.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "kodi-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 875,
-    "timeDay": 442,
-    "timeWeek": 659,
-    "timeMonth": 764,
+    "timeDay": 503,
+    "timeWeek": 656,
+    "timeMonth": 760,
     "timeYear": 875,
     "dailyMinutesDown": {
       "2021-08-29": 17,
@@ -195,18 +195,16 @@
     "slug": "eu-rid-weblate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 715,
     "timeDay": 800,
     "timeWeek": 746,
     "timeMonth": 717,
     "timeYear": 715,
-    "dailyMinutesDown": {
-      "2021-11-14": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "EURid Weblate (staging)",
@@ -215,18 +213,16 @@
     "slug": "eu-rid-weblate-staging",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 693,
     "timeDay": 803,
     "timeWeek": 766,
     "timeMonth": 706,
     "timeYear": 693,
-    "dailyMinutesDown": {
-      "2021-11-14": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Solocoo Weblate",
