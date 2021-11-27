@@ -132,11 +132,11 @@
     "url": "https://translate.fedoraproject.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "fedora-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1064,
     "timeDay": 844,
@@ -144,6 +144,7 @@
     "timeMonth": 1305,
     "timeYear": 1064,
     "dailyMinutesDown": {
+      "2021-11-27": 3,
       "2021-09-08": 2,
       "2021-06-15": 18,
       "2021-05-21": 18
@@ -154,18 +155,19 @@
     "url": "https://kodi.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "kodi-weblate",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 867,
     "timeDay": 726,
     "timeWeek": 626,
     "timeMonth": 744,
     "timeYear": 867,
     "dailyMinutesDown": {
+      "2021-11-27": 3,
       "2021-08-29": 17,
       "2021-06-15": 17,
       "2021-05-03": 30
@@ -176,10 +178,10 @@
     "url": "https://dyson.weblate.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "dyson-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 649,
@@ -187,17 +189,19 @@
     "timeWeek": 639,
     "timeMonth": 757,
     "timeYear": 649,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-27": 2
+    }
   },
   {
     "name": "EURid Weblate",
     "url": "https://weblate.eurid.eu/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "eu-rid-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 715,
@@ -205,17 +209,19 @@
     "timeWeek": 722,
     "timeMonth": 749,
     "timeYear": 715,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-27": 2
+    }
   },
   {
     "name": "EURid Weblate (staging)",
     "url": "https://weblate-test.eurid.eu/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "eu-rid-weblate-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 691,
@@ -223,16 +229,18 @@
     "timeWeek": 627,
     "timeMonth": 712,
     "timeYear": 691,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-27": 1
+    }
   },
   {
     "name": "Solocoo Weblate",
     "url": "https://translate.solocoo.tv/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "solocoo-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -241,7 +249,9 @@
     "timeWeek": 656,
     "timeMonth": 698,
     "timeYear": 700,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-27": 1
+    }
   },
   {
     "name": "Lime Weblate",
