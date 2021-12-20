@@ -5,11 +5,11 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "hosted-weblate",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 1794,
     "timeDay": 1053,
     "timeWeek": 1143,
@@ -39,9 +39,9 @@
     "url": "https://care.weblate.org",
     "icon": "https://favicons.githubusercontent.com/care.weblate.org",
     "slug": "weblate-care",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,7 @@
     "timeMonth": 514,
     "timeYear": 464,
     "dailyMinutesDown": {
+      "2021-12-20": 0,
       "2021-10-27": 12
     }
   },
