@@ -381,19 +381,19 @@
     "url": "https://profil-klett.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "profil-klett-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 696,
-    "timeDay": 881,
-    "timeWeek": 747,
-    "timeMonth": 703,
+    "timeDay": 916,
+    "timeWeek": 769,
+    "timeMonth": 711,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2021-12-24": 1
+      "2021-12-24": 8
     }
   },
   {
