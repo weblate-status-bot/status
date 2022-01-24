@@ -286,19 +286,19 @@
     "url": "https://bon.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "bon-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 609,
-    "timeDay": 787,
-    "timeWeek": 695,
-    "timeMonth": 660,
+    "timeDay": 691,
+    "timeWeek": 683,
+    "timeMonth": 658,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2022-01-24": 0
+      "2022-01-24": 15
     }
   },
   {
