@@ -286,9 +286,9 @@
     "url": "https://bon.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "bon-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -297,7 +297,9 @@
     "timeWeek": 695,
     "timeMonth": 660,
     "timeYear": 609,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-24": 0
+    }
   },
   {
     "name": "UL Weblate",
@@ -385,12 +387,12 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 699,
     "timeDay": 908,
     "timeWeek": 761,
-    "timeMonth": 726,
+    "timeMonth": 719,
     "timeYear": 699,
     "dailyMinutesDown": {
       "2021-12-24": 8
