@@ -286,11 +286,11 @@
     "url": "https://bon.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "bon-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 609,
     "timeDay": 553,
@@ -298,6 +298,7 @@
     "timeMonth": 631,
     "timeYear": 611,
     "dailyMinutesDown": {
+      "2022-02-16": 0,
       "2022-01-24": 15
     }
   },
