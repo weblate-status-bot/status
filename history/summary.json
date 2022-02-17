@@ -14,7 +14,7 @@
     "timeDay": 1134,
     "timeWeek": 1202,
     "timeMonth": 1188,
-    "timeYear": 1778,
+    "timeYear": 1779,
     "dailyMinutesDown": {
       "2021-11-29": 35,
       "2021-11-21": 21,
@@ -47,7 +47,7 @@
     "timeDay": 341,
     "timeWeek": 442,
     "timeMonth": 483,
-    "timeYear": 472,
+    "timeYear": 471,
     "dailyMinutesDown": {
       "2021-12-20": 8,
       "2021-10-27": 12
@@ -68,7 +68,7 @@
     "timeDay": 234,
     "timeWeek": 312,
     "timeMonth": 345,
-    "timeYear": 373,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2021-07-14": 60
     }
@@ -88,7 +88,7 @@
     "timeDay": 471,
     "timeWeek": 601,
     "timeMonth": 621,
-    "timeYear": 673,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2022-01-27": 3
     }
@@ -108,7 +108,7 @@
     "timeDay": 93,
     "timeWeek": 319,
     "timeMonth": 277,
-    "timeYear": 273,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   },
   {
@@ -144,7 +144,7 @@
     "timeDay": 739,
     "timeWeek": 986,
     "timeMonth": 982,
-    "timeYear": 1064,
+    "timeYear": 1063,
     "dailyMinutesDown": {
       "2021-09-08": 2,
       "2021-06-15": 18,
@@ -166,7 +166,7 @@
     "timeDay": 558,
     "timeWeek": 1156,
     "timeMonth": 849,
-    "timeYear": 856,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2021-08-29": 17,
       "2021-06-15": 17,
@@ -188,7 +188,7 @@
     "timeDay": 704,
     "timeWeek": 651,
     "timeMonth": 650,
-    "timeYear": 658,
+    "timeYear": 657,
     "dailyMinutesDown": {}
   },
   {
@@ -206,7 +206,7 @@
     "timeDay": 639,
     "timeWeek": 794,
     "timeMonth": 738,
-    "timeYear": 728,
+    "timeYear": 727,
     "dailyMinutesDown": {}
   },
   {
@@ -224,7 +224,7 @@
     "timeDay": 482,
     "timeWeek": 708,
     "timeMonth": 728,
-    "timeYear": 699,
+    "timeYear": 698,
     "dailyMinutesDown": {}
   },
   {
@@ -242,7 +242,7 @@
     "timeDay": 608,
     "timeWeek": 693,
     "timeMonth": 698,
-    "timeYear": 700,
+    "timeYear": 699,
     "dailyMinutesDown": {}
   },
   {
@@ -278,7 +278,7 @@
     "timeDay": 565,
     "timeWeek": 667,
     "timeMonth": 690,
-    "timeYear": 685,
+    "timeYear": 684,
     "dailyMinutesDown": {}
   },
   {
@@ -293,7 +293,7 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 609,
-    "timeDay": 561,
+    "timeDay": 553,
     "timeWeek": 612,
     "timeMonth": 625,
     "timeYear": 611,
@@ -306,18 +306,20 @@
     "url": "https://ul.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "ul-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 982,
     "timeDay": 831,
     "timeWeek": 962,
     "timeMonth": 989,
-    "timeYear": 984,
-    "dailyMinutesDown": {}
+    "timeYear": 983,
+    "dailyMinutesDown": {
+      "2022-02-17": 1
+    }
   },
   {
     "name": "Medvice Weblate",
@@ -334,7 +336,7 @@
     "timeDay": 502,
     "timeWeek": 564,
     "timeMonth": 580,
-    "timeYear": 583,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2021-06-09": 18,
       "2021-06-08": 23
@@ -373,7 +375,7 @@
     "timeDay": 474,
     "timeWeek": 569,
     "timeMonth": 592,
-    "timeYear": 586,
+    "timeYear": 585,
     "dailyMinutesDown": {
       "2021-06-08": 23
     }
