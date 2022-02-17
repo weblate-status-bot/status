@@ -306,19 +306,19 @@
     "url": "https://ul.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "ul-weblate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 983,
-    "timeDay": 1095,
-    "timeWeek": 1012,
-    "timeMonth": 1001,
-    "timeYear": 984,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
+    "time": 984,
+    "timeDay": 1171,
+    "timeWeek": 1046,
+    "timeMonth": 1011,
+    "timeYear": 985,
     "dailyMinutesDown": {
-      "2022-02-17": 1
+      "2022-02-17": 40
     }
   },
   {
