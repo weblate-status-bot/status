@@ -98,18 +98,20 @@
     "url": "https://weblate-cdn.com/a5ba5dc29f39498aa734528a54b50d0a/weblate.js",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "weblate-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 427,
-    "timeWeek": 284,
-    "timeMonth": 304,
-    "timeYear": 276,
-    "dailyMinutesDown": {}
+    "timeDay": 260,
+    "timeWeek": 260,
+    "timeMonth": 297,
+    "timeYear": 275,
+    "dailyMinutesDown": {
+      "2022-02-22": 0
+    }
   },
   {
     "name": "Weblate Cloud Backup Service",
