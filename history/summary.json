@@ -577,18 +577,20 @@
     "url": "https://translations.metabrainz.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "meta-brainz-weblate",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 748,
     "timeDay": 811,
     "timeWeek": 748,
     "timeMonth": 748,
     "timeYear": 748,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-18": 1
+    }
   },
   {
     "name": "DGUV Weblate",
