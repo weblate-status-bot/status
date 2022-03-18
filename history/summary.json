@@ -577,19 +577,19 @@
     "url": "https://translations.metabrainz.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "meta-brainz-weblate",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 748,
-    "timeDay": 811,
-    "timeWeek": 748,
-    "timeMonth": 748,
-    "timeYear": 748,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 810,
+    "timeDay": 893,
+    "timeWeek": 810,
+    "timeMonth": 810,
+    "timeYear": 810,
     "dailyMinutesDown": {
-      "2022-03-18": 1
+      "2022-03-18": 12
     }
   },
   {
