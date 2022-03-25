@@ -613,17 +613,19 @@
     "url": "https://translate.pascom.net/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "pascom-weblate",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1410,
-    "timeDay": 781,
-    "timeWeek": 1410,
-    "timeMonth": 1410,
-    "timeYear": 1410,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1141,
+    "timeDay": 557,
+    "timeWeek": 1141,
+    "timeMonth": 1141,
+    "timeYear": 1141,
+    "dailyMinutesDown": {
+      "2022-03-25": 1
+    }
   }
 ]
