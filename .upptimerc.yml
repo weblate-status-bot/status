@@ -105,7 +105,7 @@ sites:
     url: https://translations.artefactual.com/
     icon: https://s.weblate.org/cdn/logo-32.png
   - name: LS Weblate
-    url: https://thme.weblate.cloud/
+    url: https://tmhe.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
 
 status-website:
