@@ -89,9 +89,6 @@ sites:
   - name: Manor Weblate
     url: https://manor.weblate.cloud
     icon: https://s.weblate.org/cdn/logo-32.png
-  - name: Proton Weblate
-    url: https://proton.weblate.cloud
-    icon: https://s.weblate.org/cdn/logo-32.png
   - name: MetaBrainz Weblate
     url: https://translations.metabrainz.org/
     icon: https://s.weblate.org/cdn/logo-32.png
