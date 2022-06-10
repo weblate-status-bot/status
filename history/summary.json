@@ -668,18 +668,20 @@
     "url": "https://weblate.oculavis.de/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "oculavis-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 879,
-    "timeDay": 907,
-    "timeWeek": 753,
-    "timeMonth": 879,
-    "timeYear": 879,
-    "dailyMinutesDown": {}
+    "time": 867,
+    "timeDay": 693,
+    "timeWeek": 718,
+    "timeMonth": 867,
+    "timeYear": 867,
+    "dailyMinutesDown": {
+      "2022-06-10": 1
+    }
   },
   {
     "name": "GetMomo Weblate",
