@@ -668,19 +668,19 @@
     "url": "https://weblate.oculavis.de/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "oculavis-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 867,
-    "timeDay": 693,
-    "timeWeek": 718,
-    "timeMonth": 867,
-    "timeYear": 867,
+    "time": 913,
+    "timeDay": 1287,
+    "timeWeek": 914,
+    "timeMonth": 913,
+    "timeYear": 913,
     "dailyMinutesDown": {
-      "2022-06-10": 1
+      "2022-06-10": 2
     }
   },
   {
