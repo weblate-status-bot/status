@@ -429,10 +429,10 @@
     "url": "https://translate.snomedtools.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "snomed-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 710,
@@ -440,7 +440,9 @@
     "timeWeek": 715,
     "timeMonth": 764,
     "timeYear": 716,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 1
+    }
   },
   {
     "name": "Shopop Weblate",
