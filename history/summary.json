@@ -438,7 +438,7 @@
     "uptimeYear": "100.00%",
     "time": 711,
     "timeDay": 527,
-    "timeWeek": 768,
+    "timeWeek": 756,
     "timeMonth": 761,
     "timeYear": 719,
     "dailyMinutesDown": {}
@@ -525,19 +525,19 @@
     "url": "https://translation.umdaschgroup.com",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "doka-weblate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 668,
-    "timeDay": 432,
-    "timeWeek": 592,
-    "timeMonth": 663,
-    "timeYear": 668,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "93.45%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.97%",
+    "time": 679,
+    "timeDay": 1466,
+    "timeWeek": 919,
+    "timeMonth": 748,
+    "timeYear": 679,
     "dailyMinutesDown": {
-      "2022-06-28": 1
+      "2022-06-28": 94
     }
   },
   {
