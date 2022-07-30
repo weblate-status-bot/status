@@ -72,7 +72,7 @@
     "time": 405,
     "timeDay": 891,
     "timeWeek": 521,
-    "timeMonth": 478,
+    "timeMonth": 487,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2022-06-21": 37,
@@ -108,12 +108,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 337,
     "timeDay": 129,
     "timeWeek": 336,
-    "timeMonth": 313,
+    "timeMonth": 316,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2022-06-30": 19,
@@ -674,18 +674,20 @@
     "url": "https://weblate.oculavis.de/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "oculavis-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 867,
-    "timeDay": 938,
-    "timeWeek": 803,
-    "timeMonth": 832,
-    "timeYear": 867,
-    "dailyMinutesDown": {}
+    "time": 863,
+    "timeDay": 736,
+    "timeWeek": 773,
+    "timeMonth": 822,
+    "timeYear": 863,
+    "dailyMinutesDown": {
+      "2022-07-30": 1
+    }
   },
   {
     "name": "GetMomo Weblate",
