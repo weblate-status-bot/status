@@ -714,19 +714,19 @@
     "url": "https://wl.teamhero.de/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "teamhero-weblate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 758,
-    "timeWeek": 937,
-    "timeMonth": 888,
-    "timeYear": 860,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.92%",
+    "time": 859,
+    "timeDay": 753,
+    "timeWeek": 914,
+    "timeMonth": 883,
+    "timeYear": 859,
     "dailyMinutesDown": {
-      "2022-08-09": 1
+      "2022-08-09": 76
     }
   },
   {
