@@ -14,7 +14,7 @@
     "timeDay": 1043,
     "timeWeek": 1037,
     "timeMonth": 1224,
-    "timeYear": 1513,
+    "timeYear": 1515,
     "dailyMinutesDown": {
       "2022-10-05": 53,
       "2022-09-11": 43,
@@ -56,7 +56,7 @@
     "timeDay": 565,
     "timeWeek": 543,
     "timeMonth": 520,
-    "timeYear": 526,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2021-12-20": 8,
       "2021-10-27": 12
@@ -114,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 365,
+    "time": 379,
     "timeDay": 644,
     "timeWeek": 460,
     "timeMonth": 430,
-    "timeYear": 407,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2022-06-30": 19,
       "2022-06-21": 17,
@@ -161,7 +161,7 @@
     "timeDay": 1186,
     "timeWeek": 1135,
     "timeMonth": 1207,
-    "timeYear": 1154,
+    "timeYear": 1155,
     "dailyMinutesDown": {}
   },
   {
@@ -197,7 +197,7 @@
     "timeDay": 775,
     "timeWeek": 713,
     "timeMonth": 712,
-    "timeYear": 705,
+    "timeYear": 706,
     "dailyMinutesDown": {}
   },
   {
@@ -215,7 +215,7 @@
     "timeDay": 838,
     "timeWeek": 742,
     "timeMonth": 725,
-    "timeYear": 745,
+    "timeYear": 744,
     "dailyMinutesDown": {}
   },
   {
@@ -349,7 +349,7 @@
     "timeDay": 746,
     "timeWeek": 619,
     "timeMonth": 602,
-    "timeYear": 606,
+    "timeYear": 607,
     "dailyMinutesDown": {}
   },
   {
@@ -367,7 +367,7 @@
     "timeDay": 784,
     "timeWeek": 646,
     "timeMonth": 624,
-    "timeYear": 623,
+    "timeYear": 624,
     "dailyMinutesDown": {}
   },
   {
@@ -403,7 +403,7 @@
     "timeDay": 916,
     "timeWeek": 764,
     "timeMonth": 730,
-    "timeYear": 716,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2021-12-24": 8
     }
@@ -459,7 +459,7 @@
     "timeDay": 958,
     "timeWeek": 851,
     "timeMonth": 818,
-    "timeYear": 778,
+    "timeYear": 779,
     "dailyMinutesDown": {
       "2022-03-14": 21,
       "2021-10-13": 57
@@ -498,7 +498,7 @@
     "timeDay": 768,
     "timeWeek": 615,
     "timeMonth": 613,
-    "timeYear": 601,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2022-03-14": 21
     }
@@ -757,19 +757,19 @@
     "url": "https://translate.schiller.fr/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "schiller-weblate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 1034,
-    "timeDay": 1064,
-    "timeWeek": 1741,
-    "timeMonth": 1141,
-    "timeYear": 1034,
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "76.64%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.48%",
+    "time": 1125,
+    "timeDay": 3235,
+    "timeWeek": 2199,
+    "timeMonth": 1278,
+    "timeYear": 1125,
     "dailyMinutesDown": {
-      "2022-10-06": 2
+      "2022-10-06": 336
     }
   },
   {
