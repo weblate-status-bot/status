@@ -757,18 +757,20 @@
     "url": "https://translate.schiller.fr/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "schiller-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1034,
     "timeDay": 1064,
     "timeWeek": 1741,
     "timeMonth": 1141,
     "timeYear": 1034,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-06": 2
+    }
   },
   {
     "name": "Stem Weblate",
