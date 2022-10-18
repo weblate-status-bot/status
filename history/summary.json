@@ -508,18 +508,20 @@
     "url": "https://umusic.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "universal-music-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 594,
-    "timeDay": 569,
-    "timeWeek": 538,
-    "timeMonth": 579,
+    "timeDay": 481,
+    "timeWeek": 513,
+    "timeMonth": 570,
     "timeYear": 599,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-18": 1
+    }
   },
   {
     "name": "Doka Weblate",
