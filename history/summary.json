@@ -14,7 +14,7 @@
     "timeDay": 844,
     "timeWeek": 1204,
     "timeMonth": 1102,
-    "timeYear": 1410,
+    "timeYear": 1411,
     "dailyMinutesDown": {
       "2022-10-15": 23,
       "2022-10-10": 21,
@@ -133,10 +133,10 @@
     "url": "backups.weblate.cloud",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "weblate-cloud-backup-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
@@ -144,7 +144,9 @@
     "timeWeek": 205,
     "timeMonth": 194,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-26": 1
+    }
   },
   {
     "name": "Fedora Weblate",
