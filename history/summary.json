@@ -133,19 +133,19 @@
     "url": "backups.weblate.cloud",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "weblate-cloud-backup-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 131,
-    "timeWeek": 205,
-    "timeMonth": 194,
+    "timeDay": 124,
+    "timeWeek": 194,
+    "timeMonth": 192,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2022-10-26": 1
+      "2022-10-26": 13
     }
   },
   {
