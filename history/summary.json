@@ -6,16 +6,17 @@
     "slug": "hosted-weblate",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.84%",
-    "time": 1468,
-    "timeDay": 878,
-    "timeWeek": 1005,
-    "timeMonth": 1096,
-    "timeYear": 1402,
+    "uptimeYear": "99.85%",
+    "time": 1470,
+    "timeDay": 1011,
+    "timeWeek": 1020,
+    "timeMonth": 1097,
+    "timeYear": 1400,
     "dailyMinutesDown": {
+      "2022-11-02": 1,
       "2022-10-29": 17,
       "2022-10-15": 23,
       "2022-10-10": 21,
@@ -140,7 +141,7 @@
     "uptimeYear": "100.00%",
     "time": 180,
     "timeDay": 171,
-    "timeWeek": 218,
+    "timeWeek": 233,
     "timeMonth": 194,
     "timeYear": 181,
     "dailyMinutesDown": {}
@@ -304,7 +305,7 @@
     "timeDay": 514,
     "timeWeek": 625,
     "timeMonth": 617,
-    "timeYear": 646,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2022-04-11": 30,
       "2022-03-02": 43,
@@ -402,7 +403,7 @@
     "timeDay": 604,
     "timeWeek": 711,
     "timeMonth": 709,
-    "timeYear": 719,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2021-12-24": 8
     }
@@ -440,7 +441,7 @@
     "timeDay": 708,
     "timeWeek": 743,
     "timeMonth": 716,
-    "timeYear": 734,
+    "timeYear": 733,
     "dailyMinutesDown": {}
   },
   {
@@ -478,7 +479,7 @@
     "timeDay": 576,
     "timeWeek": 715,
     "timeMonth": 709,
-    "timeYear": 709,
+    "timeYear": 710,
     "dailyMinutesDown": {}
   },
   {
@@ -758,11 +759,11 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "schiller-weblate",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.23%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.68%",
     "time": 1121,
     "timeDay": 768,
     "timeWeek": 886,
