@@ -412,19 +412,19 @@
     "url": "https://preventis.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "preventis-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 484,
-    "timeWeek": 574,
-    "timeMonth": 610,
-    "timeYear": 620,
+    "time": 614,
+    "timeDay": 970,
+    "timeWeek": 684,
+    "timeMonth": 635,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2022-11-05": 4
+      "2022-11-05": 19
     }
   },
   {
@@ -645,19 +645,19 @@
     "url": "https://tmhe.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "ls-weblate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 598,
-    "timeDay": 504,
-    "timeWeek": 565,
-    "timeMonth": 600,
-    "timeYear": 598,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 605,
+    "timeDay": 1269,
+    "timeWeek": 748,
+    "timeMonth": 643,
+    "timeYear": 605,
     "dailyMinutesDown": {
-      "2022-11-05": 2
+      "2022-11-05": 18
     }
   },
   {
@@ -781,19 +781,19 @@
     "url": "https://weblate.stem.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "stem-weblate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 633,
-    "timeDay": 540,
-    "timeWeek": 572,
-    "timeMonth": 617,
-    "timeYear": 633,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 637,
+    "timeDay": 719,
+    "timeWeek": 613,
+    "timeMonth": 625,
+    "timeYear": 637,
     "dailyMinutesDown": {
-      "2022-11-05": 1
+      "2022-11-05": 16
     }
   },
   {
