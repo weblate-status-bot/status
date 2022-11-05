@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.17%",
+    "uptimeWeek": "99.33%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.84%",
     "time": 1472,
     "timeDay": 2056,
-    "timeWeek": 1112,
+    "timeWeek": 1133,
     "timeMonth": 1124,
     "timeYear": 1401,
     "dailyMinutesDown": {
@@ -412,18 +412,20 @@
     "url": "https://preventis.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "preventis-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 611,
+    "time": 612,
     "timeDay": 484,
     "timeWeek": 574,
     "timeMonth": 610,
     "timeYear": 620,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-05": 4
+    }
   },
   {
     "name": "SNOMED Weblate",
@@ -643,18 +645,20 @@
     "url": "https://tmhe.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "ls-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 598,
     "timeDay": 504,
     "timeWeek": 565,
     "timeMonth": 600,
     "timeYear": 598,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-05": 2
+    }
   },
   {
     "name": "Salling Weblate",
@@ -738,11 +742,11 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "webit-weblate",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 566,
     "timeDay": 475,
     "timeWeek": 547,
@@ -777,10 +781,10 @@
     "url": "https://weblate.stem.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "stem-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 633,
@@ -788,7 +792,9 @@
     "timeWeek": 572,
     "timeMonth": 617,
     "timeYear": 633,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-05": 1
+    }
   },
   {
     "name": "Spaziodati Weblate",
