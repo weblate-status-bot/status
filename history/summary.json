@@ -90,10 +90,10 @@
     "url": "https://weblate.org/en/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "weblate-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 674,
@@ -102,6 +102,7 @@
     "timeMonth": 631,
     "timeYear": 645,
     "dailyMinutesDown": {
+      "2022-11-13": 1,
       "2022-11-12": 20,
       "2022-01-27": 3
     }
