@@ -70,18 +70,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.weblate.org.ico",
     "slug": "weblate-documentation",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 426,
     "timeDay": 290,
     "timeWeek": 411,
     "timeMonth": 421,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2022-11-13": 13,
       "2022-06-21": 37,
       "2022-05-10": 37
     }
@@ -114,10 +113,10 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "weblate-cdn",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 389,
     "timeDay": 183,
@@ -125,7 +124,6 @@
     "timeMonth": 369,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2022-11-13": 13,
       "2022-06-30": 19,
       "2022-06-21": 17,
       "2022-06-17": 22,
@@ -808,10 +806,10 @@
     "url": "https://spaziodati.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "spaziodati-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 584,
@@ -819,6 +817,8 @@
     "timeWeek": 551,
     "timeMonth": 584,
     "timeYear": 584,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-13": 1
+    }
   }
 ]
