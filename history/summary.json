@@ -13,7 +13,7 @@
     "time": 1579,
     "timeDay": 955,
     "timeWeek": 2006,
-    "timeMonth": 2050,
+    "timeMonth": 2133,
     "timeYear": 1474,
     "dailyMinutesDown": {
       "2022-11-27": 54,
@@ -361,10 +361,10 @@
     "url": "https://sourceability.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "sourceability-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 619,
@@ -372,7 +372,9 @@
     "timeWeek": 588,
     "timeMonth": 591,
     "timeYear": 622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-12": 1
+    }
   },
   {
     "name": "Vernier Weblate",
