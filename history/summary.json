@@ -13,7 +13,7 @@
     "time": 1537,
     "timeDay": 859,
     "timeWeek": 937,
-    "timeMonth": 1305,
+    "timeMonth": 1320,
     "timeYear": 1471,
     "dailyMinutesDown": {
       "2022-12-16": 39,
@@ -92,10 +92,10 @@
     "url": "https://weblate.org/en/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "weblate-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 665,
@@ -104,6 +104,7 @@
     "timeMonth": 628,
     "timeYear": 643,
     "dailyMinutesDown": {
+      "2022-12-16": 1,
       "2022-11-13": 46,
       "2022-11-12": 20,
       "2022-01-27": 3
