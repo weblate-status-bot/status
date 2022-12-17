@@ -1,7 +1,7 @@
 url: https://vernier.weblate.cloud/
-status: up
-code: 200
-responseTime: 551
-lastUpdated: 2022-12-16T23:12:56.583Z
+status: down
+code: 502
+responseTime: 289
+lastUpdated: 2022-12-17T11:43:35.487Z
 startTime: Fri Feb 12 2021 19:47:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
