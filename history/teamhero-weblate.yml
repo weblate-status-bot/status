@@ -1,7 +1,7 @@
 url: https://wl.teamhero.de/
-status: up
-code: 200
-responseTime: 831
-lastUpdated: 2022-12-16T23:13:12.100Z
+status: down
+code: 502
+responseTime: 536
+lastUpdated: 2022-12-17T11:43:56.013Z
 startTime: Thu Jun 02 2022 08:50:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
