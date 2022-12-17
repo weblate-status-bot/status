@@ -1,7 +1,7 @@
 url: https://preventis.weblate.cloud/
-status: up
-code: 200
-responseTime: 499
-lastUpdated: 2022-12-16T23:12:58.249Z
+status: down
+code: 502
+responseTime: 290
+lastUpdated: 2022-12-17T11:43:37.197Z
 startTime: Mon May 17 2021 19:29:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
