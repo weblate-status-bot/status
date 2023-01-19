@@ -52,18 +52,20 @@
     "url": "https://care.weblate.org",
     "icon": "https://icons.duckduckgo.com/ip3/care.weblate.org.ico",
     "slug": "weblate-care",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 522,
-    "timeDay": 539,
-    "timeWeek": 535,
-    "timeMonth": 521,
-    "timeYear": 524,
-    "dailyMinutesDown": {}
+    "timeDay": 421,
+    "timeWeek": 506,
+    "timeMonth": 514,
+    "timeYear": 523,
+    "dailyMinutesDown": {
+      "2023-01-19": 1
+    }
   },
   {
     "name": "Weblate Documentation",
