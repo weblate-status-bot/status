@@ -145,19 +145,19 @@
     "url": "backups.weblate.cloud",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "weblate-cloud-backup-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 206,
-    "timeWeek": 187,
-    "timeMonth": 194,
-    "timeYear": 185,
+    "timeDay": 158,
+    "timeWeek": 177,
+    "timeMonth": 192,
+    "timeYear": 184,
     "dailyMinutesDown": {
-      "2023-01-25": 7
+      "2023-01-25": 11
     }
   },
   {
@@ -167,9 +167,9 @@
     "slug": "fedora-weblate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1140,
     "timeDay": 1065,
@@ -177,7 +177,7 @@
     "timeMonth": 1108,
     "timeYear": 1143,
     "dailyMinutesDown": {
-      "2023-01-25": 5
+      "2023-01-25": 9
     }
   },
   {
@@ -185,19 +185,19 @@
     "url": "https://kodi.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "kodi-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 751,
-    "timeDay": 860,
-    "timeWeek": 769,
-    "timeMonth": 826,
+    "timeDay": 808,
+    "timeWeek": 767,
+    "timeMonth": 824,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2023-01-25": 5
+      "2023-01-25": 9
     }
   },
   {
@@ -223,19 +223,19 @@
     "url": "https://weblate.eurid.eu/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "eu-rid-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 697,
-    "timeWeek": 664,
-    "timeMonth": 701,
-    "timeYear": 734,
+    "time": 736,
+    "timeDay": 616,
+    "timeWeek": 648,
+    "timeMonth": 695,
+    "timeYear": 733,
     "dailyMinutesDown": {
-      "2023-01-25": 2
+      "2023-01-25": 6
     }
   },
   {
@@ -439,9 +439,9 @@
     "slug": "preventis-weblate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 621,
     "timeDay": 735,
@@ -449,6 +449,7 @@
     "timeMonth": 655,
     "timeYear": 624,
     "dailyMinutesDown": {
+      "2023-01-25": 4,
       "2022-11-05": 19
     }
   },
