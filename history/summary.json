@@ -4,18 +4,19 @@
     "url": "https://hosted.weblate.org",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "hosted-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.74%",
     "time": 1555,
-    "timeDay": 979,
-    "timeWeek": 4869,
-    "timeMonth": 1998,
-    "timeYear": 1537,
+    "timeDay": 698,
+    "timeWeek": 4464,
+    "timeMonth": 1963,
+    "timeYear": 1535,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2023-01-20": 21,
       "2022-12-26": 39,
       "2022-12-16": 39,
@@ -147,18 +148,16 @@
     "slug": "weblate-cloud-backup-service",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
     "timeDay": 158,
     "timeWeek": 177,
     "timeMonth": 192,
     "timeYear": 184,
-    "dailyMinutesDown": {
-      "2023-01-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fedora Weblate",
@@ -166,18 +165,18 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "fedora-weblate",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "79.16%",
+    "uptimeWeek": "97.02%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.94%",
     "time": 1140,
     "timeDay": 1065,
     "timeWeek": 990,
     "timeMonth": 1108,
     "timeYear": 1143,
     "dailyMinutesDown": {
-      "2023-01-25": 9
+      "2023-01-25": 300
     }
   },
   {
@@ -187,18 +186,16 @@
     "slug": "kodi-weblate",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 751,
     "timeDay": 808,
     "timeWeek": 767,
     "timeMonth": 824,
     "timeYear": 749,
-    "dailyMinutesDown": {
-      "2023-01-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dyson Weblate",
@@ -225,18 +222,16 @@
     "slug": "eu-rid-weblate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 736,
     "timeDay": 616,
     "timeWeek": 648,
     "timeMonth": 695,
     "timeYear": 733,
-    "dailyMinutesDown": {
-      "2023-01-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "EURid Weblate (staging)",
@@ -438,18 +433,18 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "preventis-weblate",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "79.52%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.94%",
     "time": 621,
     "timeDay": 735,
     "timeWeek": 684,
     "timeMonth": 655,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2023-01-25": 4,
+      "2023-01-25": 295,
       "2022-11-05": 19
     }
   },
