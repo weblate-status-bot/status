@@ -253,18 +253,20 @@
     "url": "https://translate.solocoo.tv/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "solocoo-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 722,
     "timeDay": 732,
     "timeWeek": 686,
     "timeMonth": 724,
     "timeYear": 729,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 17
+    }
   },
   {
     "name": "Lime Weblate",
@@ -289,18 +291,20 @@
     "url": "https://translate.mattermost.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "mattermost-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 732,
     "timeDay": 864,
     "timeWeek": 732,
     "timeMonth": 718,
     "timeYear": 739,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 14
+    }
   },
   {
     "name": "Bon Weblate",
@@ -328,11 +332,11 @@
     "url": "https://ul.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "ul-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 1043,
     "timeDay": 1183,
@@ -340,6 +344,7 @@
     "timeMonth": 1084,
     "timeYear": 1047,
     "dailyMinutesDown": {
+      "2023-01-25": 12,
       "2022-08-26": 114,
       "2022-08-25": 7,
       "2022-02-17": 40
@@ -350,18 +355,20 @@
     "url": "https://medvice.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "medvice-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 604,
     "timeDay": 709,
     "timeWeek": 612,
     "timeMonth": 633,
     "timeYear": 603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 10
+    }
   },
   {
     "name": "Sourceability Weblate",
@@ -498,18 +505,19 @@
     "url": "https://oxfam.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "oxfam-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 597,
     "timeDay": 681,
     "timeWeek": 597,
     "timeMonth": 625,
     "timeYear": 596,
     "dailyMinutesDown": {
+      "2023-01-25": 7,
       "2022-03-14": 21
     }
   },
@@ -830,18 +838,20 @@
     "url": "https://papirfly.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "papirfly-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1005,
     "timeDay": 1189,
     "timeWeek": 1091,
     "timeMonth": 1092,
     "timeYear": 1005,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 4
+    }
   },
   {
     "name": "Viking Weblate",
