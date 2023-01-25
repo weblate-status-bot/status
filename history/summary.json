@@ -693,7 +693,7 @@
     "url": "https://weblate.oculavis.de/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "oculavis-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "97.41%",
     "uptimeWeek": "99.63%",
