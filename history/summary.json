@@ -882,17 +882,17 @@
     "url": "https://syncron.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "syncron-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 522,
-    "timeWeek": 557,
-    "timeMonth": 572,
-    "timeYear": 572,
+    "time": 578,
+    "timeDay": 625,
+    "timeWeek": 588,
+    "timeMonth": 593,
+    "timeYear": 593,
     "dailyMinutesDown": {}
   }
 ]
