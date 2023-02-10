@@ -593,19 +593,19 @@
     "url": "https://translations.metabrainz.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "meta-brainz-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 781,
-    "timeDay": 726,
-    "timeWeek": 833,
-    "timeMonth": 838,
+    "timeDay": 730,
+    "timeWeek": 820,
+    "timeMonth": 835,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2023-02-10": 1
+      "2023-02-10": 21
     }
   },
   {
