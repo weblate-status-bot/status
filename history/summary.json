@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.71%",
+    "uptimeYear": "99.72%",
     "time": 1456,
     "timeDay": 1098,
     "timeWeek": 1351,
     "timeMonth": 1334,
-    "timeYear": 1526,
+    "timeYear": 1527,
     "dailyMinutesDown": {
       "2023-02-28": 27,
       "2023-02-17": 20,
@@ -846,10 +846,10 @@
     "url": "https://papirfly.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "papirfly-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1045,
@@ -858,6 +858,7 @@
     "timeMonth": 1121,
     "timeYear": 1045,
     "dailyMinutesDown": {
+      "2023-03-06": 1,
       "2023-01-25": 17
     }
   },
