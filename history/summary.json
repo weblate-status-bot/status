@@ -147,10 +147,10 @@
     "url": "backups.weblate.cloud",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "weblate-cloud-backup-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
@@ -158,7 +158,9 @@
     "timeWeek": 188,
     "timeMonth": 199,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-08": 1
+    }
   },
   {
     "name": "Fedora Weblate",
