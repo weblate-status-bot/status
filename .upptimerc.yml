@@ -140,6 +140,13 @@ sites:
   - name: VUTG Weblate
     url: https://weblate.vutg.be/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: AUVESY Weblate
+    url: https://weblate.auvesy-mdt.com/
+    icon: https://s.weblate.org/cdn/logo-32.png
+  - name: OpenStack Weblate
+    url: https://openstack.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
