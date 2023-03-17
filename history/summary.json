@@ -191,19 +191,19 @@
     "url": "https://kodi.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "kodi-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 762,
-    "timeDay": 803,
-    "timeWeek": 796,
-    "timeMonth": 911,
+    "timeDay": 695,
+    "timeWeek": 773,
+    "timeMonth": 901,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2023-03-17": 1
+      "2023-03-17": 20
     }
   },
   {
