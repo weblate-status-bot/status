@@ -149,6 +149,9 @@ sites:
   - name: UN OHCHR Weblate
     url: https://unohchr.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: BuildingLink Weblate
+    url: https://buildinglink.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
