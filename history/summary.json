@@ -224,18 +224,16 @@
     "slug": "dyson-weblate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 712,
     "timeDay": 592,
     "timeWeek": 639,
     "timeMonth": 705,
     "timeYear": 723,
-    "dailyMinutesDown": {
-      "2023-04-29": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "EURid Weblate",
@@ -278,18 +276,19 @@
     "url": "https://translate.solocoo.tv/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "solocoo-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 731,
-    "timeDay": 608,
-    "timeWeek": 674,
-    "timeMonth": 755,
-    "timeYear": 723,
+    "time": 730,
+    "timeDay": 513,
+    "timeWeek": 645,
+    "timeMonth": 746,
+    "timeYear": 722,
     "dailyMinutesDown": {
+      "2023-04-29": 1,
       "2023-01-25": 30
     }
   },
@@ -300,18 +299,16 @@
     "slug": "lime-weblate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 697,
     "timeDay": 853,
     "timeWeek": 711,
     "timeMonth": 716,
     "timeYear": 697,
-    "dailyMinutesDown": {
-      "2023-04-29": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mattermost Weblate",
@@ -475,19 +472,19 @@
     "url": "https://translate.snomedtools.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "snomed-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 731,
-    "timeDay": 653,
-    "timeWeek": 647,
+    "time": 730,
+    "timeDay": 684,
+    "timeWeek": 657,
     "timeMonth": 735,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2023-04-29": 1
+      "2023-04-29": 13
     }
   },
   {
