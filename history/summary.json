@@ -222,19 +222,19 @@
     "url": "https://dyson.weblate.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "dyson-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 713,
-    "timeDay": 541,
-    "timeWeek": 633,
-    "timeMonth": 706,
+    "time": 712,
+    "timeDay": 592,
+    "timeWeek": 639,
+    "timeMonth": 705,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2023-04-29": 1
+      "2023-04-29": 13
     }
   },
   {
@@ -298,19 +298,19 @@
     "url": "https://translate.lime.tech/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "lime-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 543,
-    "timeWeek": 627,
-    "timeMonth": 694,
-    "timeYear": 695,
+    "time": 697,
+    "timeDay": 853,
+    "timeWeek": 711,
+    "timeMonth": 716,
+    "timeYear": 697,
     "dailyMinutesDown": {
-      "2023-04-29": 1
+      "2023-04-29": 13
     }
   },
   {
@@ -475,18 +475,20 @@
     "url": "https://translate.snomedtools.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "snomed-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 831,
-    "timeWeek": 669,
-    "timeMonth": 743,
+    "time": 731,
+    "timeDay": 653,
+    "timeWeek": 647,
+    "timeMonth": 735,
     "timeYear": 736,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-29": 1
+    }
   },
   {
     "name": "Shopop Weblate",
