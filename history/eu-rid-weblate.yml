@@ -1,7 +1,7 @@
 url: https://weblate.eurid.eu/
-status: up
-code: 200
-responseTime: 710
-lastUpdated: 2023-04-28T23:12:27.683Z
+status: down
+code: 502
+responseTime: 534
+lastUpdated: 2023-04-29T09:03:30.479Z
 startTime: Wed Feb 03 2021 12:12:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
