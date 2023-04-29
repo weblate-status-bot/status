@@ -240,19 +240,19 @@
     "url": "https://weblate.eurid.eu/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "eu-rid-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 739,
-    "timeDay": 622,
-    "timeWeek": 710,
-    "timeMonth": 773,
-    "timeYear": 727,
+    "time": 741,
+    "timeDay": 932,
+    "timeWeek": 794,
+    "timeMonth": 795,
+    "timeYear": 729,
     "dailyMinutesDown": {
-      "2023-04-29": 1
+      "2023-04-29": 17
     }
   },
   {
@@ -260,19 +260,19 @@
     "url": "https://weblate-test.eurid.eu/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "eu-rid-weblate-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 700,
-    "timeDay": 565,
-    "timeWeek": 696,
-    "timeMonth": 715,
+    "timeDay": 637,
+    "timeWeek": 705,
+    "timeMonth": 717,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2023-04-29": 1
+      "2023-04-29": 17
     }
   },
   {
