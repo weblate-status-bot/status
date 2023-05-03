@@ -941,19 +941,19 @@
     "url": "https://weblate.auvesy-mdt.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "auvesy-weblate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 685,
-    "timeDay": 845,
-    "timeWeek": 637,
-    "timeMonth": 687,
-    "timeYear": 685,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 691,
+    "timeDay": 921,
+    "timeWeek": 682,
+    "timeMonth": 696,
+    "timeYear": 691,
     "dailyMinutesDown": {
-      "2023-05-03": 2
+      "2023-05-03": 12
     }
   },
   {
