@@ -8,12 +8,12 @@
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.01%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.47%",
     "time": 1438,
     "timeDay": 1359,
     "timeWeek": 1037,
-    "timeMonth": 1419,
+    "timeMonth": 1292,
     "timeYear": 1526,
     "dailyMinutesDown": {
       "2023-04-24": 18,
@@ -941,10 +941,10 @@
     "url": "https://weblate.auvesy-mdt.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "auvesy-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 698,
@@ -952,7 +952,9 @@
     "timeWeek": 740,
     "timeMonth": 703,
     "timeYear": 698,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-05": 1
+    }
   },
   {
     "name": "OpenStack Weblate",
