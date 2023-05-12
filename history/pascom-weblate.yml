@@ -1,7 +1,7 @@
 url: https://translate.pascom.net/
-status: up
-code: 200
-responseTime: 830
-lastUpdated: 2023-05-11T23:13:33.098Z
+status: down
+code: 502
+responseTime: 438
+lastUpdated: 2023-05-12T18:22:30.496Z
 startTime: Wed Mar 23 2022 12:26:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
