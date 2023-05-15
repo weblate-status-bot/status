@@ -319,9 +319,9 @@
     "slug": "mattermost-weblate",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 732,
     "timeDay": 467,
@@ -329,7 +329,7 @@
     "timeMonth": 692,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2023-05-15": 1,
+      "2023-05-15": 20,
       "2023-01-25": 28
     }
   },
@@ -338,19 +338,19 @@
     "url": "https://bon.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "bon-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 643,
-    "timeDay": 431,
-    "timeWeek": 656,
-    "timeMonth": 675,
-    "timeYear": 630,
+    "timeDay": 590,
+    "timeWeek": 684,
+    "timeMonth": 683,
+    "timeYear": 631,
     "dailyMinutesDown": {
-      "2023-05-15": 1
+      "2023-05-15": 18
     }
   },
   {
@@ -596,18 +596,20 @@
     "url": "https://manor.weblate.cloud",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "manor-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 608,
-    "timeDay": 490,
-    "timeWeek": 617,
-    "timeMonth": 613,
+    "timeDay": 437,
+    "timeWeek": 588,
+    "timeMonth": 606,
     "timeYear": 595,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-15": 2
+    }
   },
   {
     "name": "MetaBrainz Weblate",
