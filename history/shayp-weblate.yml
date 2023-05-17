@@ -1,7 +1,7 @@
 url: https://weblate.shayp.io/
-status: up
-code: 200
-responseTime: 936
-lastUpdated: 2023-05-16T23:12:21.539Z
+status: down
+code: 502
+responseTime: 425
+lastUpdated: 2023-05-17T17:52:51.864Z
 startTime: Fri Jul 09 2021 18:15:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
