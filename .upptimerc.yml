@@ -152,6 +152,10 @@ sites:
   - name: BuildingLink Weblate
     url: https://buildinglink.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Qosenergy Weblate
+    url: https://weblate.qosenergy.it/
+    icon: https://s.weblate.org/cdn/logo-32.png
+
 
 
 status-website:
