@@ -155,6 +155,9 @@ sites:
   - name: Qosenergy Weblate
     url: https://weblate.qosenergy.it/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: SAS Weblate
+    url: https://weblate.santanderauto.systems/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 
