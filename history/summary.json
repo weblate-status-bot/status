@@ -783,7 +783,7 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "teamhero-weblate",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.79%",
     "uptimeMonth": "99.26%",
@@ -885,10 +885,10 @@
     "url": "https://papirfly.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "papirfly-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1050,
@@ -897,6 +897,7 @@
     "timeMonth": 1053,
     "timeYear": 1050,
     "dailyMinutesDown": {
+      "2023-06-07": 1,
       "2023-03-06": 20,
       "2023-01-25": 17
     }
