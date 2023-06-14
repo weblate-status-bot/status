@@ -158,6 +158,9 @@ sites:
   - name: SAS Weblate
     url: https://weblate.santanderauto.systems/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: AIDU Weblate
+    url: https://aidu.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 
