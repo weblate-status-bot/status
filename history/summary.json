@@ -924,10 +924,10 @@
     "url": "https://syncron.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "syncron-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 599,
@@ -935,7 +935,9 @@
     "timeWeek": 657,
     "timeMonth": 641,
     "timeYear": 609,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-26": 1
+    }
   },
   {
     "name": "VUTG Weblate",
