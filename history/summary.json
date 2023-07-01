@@ -223,19 +223,19 @@
     "url": "https://dyson.weblate.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "dyson-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.58%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 718,
-    "timeDay": 500,
-    "timeWeek": 674,
-    "timeMonth": 696,
-    "timeYear": 713,
+    "time": 719,
+    "timeDay": 723,
+    "timeWeek": 729,
+    "timeMonth": 710,
+    "timeYear": 714,
     "dailyMinutesDown": {
-      "2023-07-01": 35
+      "2023-07-01": 42
     }
   },
   {
@@ -243,19 +243,19 @@
     "url": "https://weblate.eurid.eu/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "eu-rid-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 755,
-    "timeDay": 714,
-    "timeWeek": 1252,
+    "time": 754,
+    "timeDay": 791,
+    "timeWeek": 1218,
     "timeMonth": 930,
-    "timeYear": 755,
+    "timeYear": 756,
     "dailyMinutesDown": {
-      "2023-07-01": 13,
+      "2023-07-01": 21,
       "2023-04-29": 17
     }
   },
@@ -757,18 +757,16 @@
     "slug": "salling-weblate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 593,
     "timeDay": 806,
     "timeWeek": 668,
     "timeMonth": 648,
     "timeYear": 593,
-    "dailyMinutesDown": {
-      "2023-07-01": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Oculavis Weblate",
@@ -776,10 +774,10 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "oculavis-weblate",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 862,
     "timeDay": 1074,
@@ -787,7 +785,6 @@
     "timeMonth": 906,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2023-07-01": 11,
       "2023-01-25": 37,
       "2022-07-30": 52
     }
@@ -799,18 +796,16 @@
     "slug": "get-momo-weblate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 645,
     "timeDay": 966,
     "timeWeek": 776,
     "timeMonth": 714,
     "timeYear": 645,
-    "dailyMinutesDown": {
-      "2023-07-01": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Teamhero Weblate",
@@ -840,18 +835,17 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "webit-weblate",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 598,
     "timeDay": 681,
     "timeWeek": 616,
     "timeMonth": 626,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2023-07-01": 11,
       "2023-05-12": 27,
       "2022-09-11": 37
     }
@@ -863,9 +857,9 @@
     "slug": "schiller-weblate",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1369,
     "timeDay": 1288,
@@ -873,7 +867,6 @@
     "timeMonth": 1108,
     "timeYear": 1369,
     "dailyMinutesDown": {
-      "2023-07-01": 11,
       "2023-05-12": 27,
       "2023-03-22": 43,
       "2022-10-06": 336
@@ -885,18 +878,17 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "stem-weblate",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 660,
     "timeDay": 721,
     "timeWeek": 681,
     "timeMonth": 720,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2023-07-01": 12,
       "2022-11-05": 16
     }
   },
@@ -907,18 +899,16 @@
     "slug": "spaziodati-weblate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 601,
     "timeDay": 637,
     "timeWeek": 592,
     "timeMonth": 623,
     "timeYear": 601,
-    "dailyMinutesDown": {
-      "2023-07-01": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Papirfly Weblate",
@@ -927,8 +917,8 @@
     "slug": "papirfly-weblate",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
     "time": 1061,
@@ -937,7 +927,7 @@
     "timeMonth": 1115,
     "timeYear": 1061,
     "dailyMinutesDown": {
-      "2023-07-01": 25,
+      "2023-07-01": 22,
       "2023-06-07": 25,
       "2023-03-06": 20,
       "2023-01-25": 17
@@ -950,9 +940,9 @@
     "slug": "viking-weblate",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 583,
     "timeDay": 623,
@@ -960,7 +950,7 @@
     "timeMonth": 592,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2023-07-01": 25
+      "2023-07-01": 22
     }
   },
   {
@@ -989,19 +979,17 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "vutg-weblate",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 799,
     "timeDay": 840,
     "timeWeek": 789,
     "timeMonth": 786,
     "timeYear": 799,
-    "dailyMinutesDown": {
-      "2023-07-01": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AUVESY Weblate",
