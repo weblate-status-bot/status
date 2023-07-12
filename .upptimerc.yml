@@ -62,9 +62,9 @@ sites:
   - name: Vernier Weblate
     url: https://vernier.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
-  - name: Profil Klett Weblate
-    url: https://profil-klett.weblate.cloud/
-    icon: https://s.weblate.org/cdn/logo-32.png
+#  - name: Profil Klett Weblate
+#    url: https://profil-klett.weblate.cloud/
+#    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Preventis Weblate
     url: https://preventis.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
