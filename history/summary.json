@@ -14,7 +14,7 @@
     "timeDay": 925,
     "timeWeek": 1341,
     "timeMonth": 1748,
-    "timeYear": 1470,
+    "timeYear": 1471,
     "dailyMinutesDown": {
       "2023-07-23": 20,
       "2023-07-21": 17,
@@ -114,7 +114,7 @@
     "timeDay": 532,
     "timeWeek": 436,
     "timeMonth": 430,
-    "timeYear": 470,
+    "timeYear": 471,
     "dailyMinutesDown": {}
   },
   {
@@ -196,7 +196,7 @@
     "timeDay": 974,
     "timeWeek": 843,
     "timeMonth": 938,
-    "timeYear": 1142,
+    "timeYear": 1143,
     "dailyMinutesDown": {
       "2023-05-17": 296,
       "2023-01-26": 604,
@@ -261,7 +261,7 @@
     "timeDay": 712,
     "timeWeek": 752,
     "timeMonth": 828,
-    "timeYear": 754,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2023-07-01": 21,
       "2023-04-29": 17
@@ -293,18 +293,19 @@
     "url": "https://translate.solocoo.tv/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "solocoo-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 727,
     "timeDay": 1029,
     "timeWeek": 709,
     "timeMonth": 747,
-    "timeYear": 720,
+    "timeYear": 719,
     "dailyMinutesDown": {
+      "2023-07-26": 2,
       "2023-07-01": 32,
       "2023-04-29": 16,
       "2023-01-25": 30
@@ -325,7 +326,7 @@
     "timeDay": 774,
     "timeWeek": 643,
     "timeMonth": 655,
-    "timeYear": 692,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2023-07-01": 32
     }
@@ -367,7 +368,7 @@
     "timeDay": 869,
     "timeWeek": 613,
     "timeMonth": 624,
-    "timeYear": 637,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2023-07-01": 32,
       "2023-05-15": 18
@@ -411,7 +412,7 @@
     "timeDay": 697,
     "timeWeek": 569,
     "timeMonth": 603,
-    "timeYear": 606,
+    "timeYear": 607,
     "dailyMinutesDown": {
       "2023-07-01": 32,
       "2023-05-16": 25,
@@ -473,7 +474,7 @@
     "timeDay": 716,
     "timeWeek": 595,
     "timeMonth": 594,
-    "timeYear": 624,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2023-07-01": 32,
       "2023-05-17": 24,
@@ -498,7 +499,7 @@
     "timeDay": 1036,
     "timeWeek": 763,
     "timeMonth": 768,
-    "timeYear": 755,
+    "timeYear": 756,
     "dailyMinutesDown": {
       "2023-07-01": 32
     }
@@ -518,7 +519,7 @@
     "timeDay": 902,
     "timeWeek": 704,
     "timeMonth": 720,
-    "timeYear": 807,
+    "timeYear": 808,
     "dailyMinutesDown": {
       "2023-07-01": 32,
       "2023-05-17": 24,
@@ -582,7 +583,7 @@
     "timeDay": 694,
     "timeWeek": 608,
     "timeMonth": 618,
-    "timeYear": 618,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2023-07-01": 32,
       "2022-10-18": 77
@@ -603,7 +604,7 @@
     "timeDay": 735,
     "timeWeek": 616,
     "timeMonth": 628,
-    "timeYear": 645,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2023-07-01": 32,
       "2023-05-15": 31,
@@ -626,7 +627,7 @@
     "timeDay": 711,
     "timeWeek": 597,
     "timeMonth": 600,
-    "timeYear": 602,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2023-07-01": 32
     }
@@ -748,7 +749,7 @@
     "timeDay": 692,
     "timeWeek": 614,
     "timeMonth": 620,
-    "timeYear": 595,
+    "timeYear": 596,
     "dailyMinutesDown": {}
   },
   {
@@ -787,7 +788,7 @@
     "timeDay": 755,
     "timeWeek": 657,
     "timeMonth": 664,
-    "timeYear": 646,
+    "timeYear": 647,
     "dailyMinutesDown": {}
   },
   {
@@ -827,7 +828,7 @@
     "timeDay": 724,
     "timeWeek": 608,
     "timeMonth": 616,
-    "timeYear": 599,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2023-05-12": 27,
       "2022-09-11": 37
@@ -922,11 +923,11 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "viking-weblate",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.29%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.78%",
     "time": 580,
     "timeDay": 692,
     "timeWeek": 575,
