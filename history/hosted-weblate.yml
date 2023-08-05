@@ -1,7 +1,7 @@
 url: https://hosted.weblate.org
-status: up
-code: 200
-responseTime: 1012
-lastUpdated: 2023-08-04T23:11:05.328Z
+status: down
+code: 502
+responseTime: 500
+lastUpdated: 2023-08-05T10:44:23.434Z
 startTime: Tue Feb 02 2021 22:28:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
