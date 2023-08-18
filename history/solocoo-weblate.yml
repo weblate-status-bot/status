@@ -1,7 +1,7 @@
 url: https://translate.solocoo.tv/
-status: up
-code: 200
-responseTime: 702
-lastUpdated: 2023-08-17T23:11:25.317Z
+status: down
+code: 502
+responseTime: 525
+lastUpdated: 2023-08-18T08:58:25.629Z
 startTime: Wed Feb 03 2021 12:12:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
