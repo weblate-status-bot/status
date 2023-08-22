@@ -13,8 +13,8 @@
     "time": 1531,
     "timeDay": 926,
     "timeWeek": 1920,
-    "timeMonth": 1424,
-    "timeYear": 1476,
+    "timeMonth": 1435,
+    "timeYear": 1477,
     "dailyMinutesDown": {
       "2023-08-22": 31,
       "2023-08-19": 26,
@@ -200,7 +200,7 @@
     "timeDay": 766,
     "timeWeek": 829,
     "timeMonth": 875,
-    "timeYear": 1109,
+    "timeYear": 1106,
     "dailyMinutesDown": {
       "2023-05-17": 296,
       "2023-01-26": 604,
@@ -222,7 +222,7 @@
     "timeDay": 966,
     "timeWeek": 745,
     "timeMonth": 721,
-    "timeYear": 782,
+    "timeYear": 781,
     "dailyMinutesDown": {
       "2023-07-15": 140,
       "2023-07-01": 22,
@@ -332,7 +332,7 @@
     "timeDay": 617,
     "timeWeek": 679,
     "timeMonth": 619,
-    "timeYear": 691,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2023-07-01": 32
     }
@@ -352,7 +352,7 @@
     "timeDay": 632,
     "timeWeek": 692,
     "timeMonth": 720,
-    "timeYear": 730,
+    "timeYear": 731,
     "dailyMinutesDown": {
       "2023-07-01": 32,
       "2023-05-15": 31,
@@ -374,7 +374,7 @@
     "timeDay": 557,
     "timeWeek": 673,
     "timeMonth": 683,
-    "timeYear": 644,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2023-08-14": 26,
       "2023-07-01": 32,
@@ -396,7 +396,7 @@
     "timeDay": 862,
     "timeWeek": 997,
     "timeMonth": 972,
-    "timeYear": 1060,
+    "timeYear": 1061,
     "dailyMinutesDown": {
       "2023-07-01": 32,
       "2023-01-25": 26,
@@ -528,7 +528,7 @@
     "timeDay": 490,
     "timeWeek": 609,
     "timeMonth": 646,
-    "timeYear": 797,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2023-07-01": 32,
       "2023-05-17": 24,
@@ -634,7 +634,7 @@
     "timeDay": 477,
     "timeWeek": 560,
     "timeMonth": 572,
-    "timeYear": 601,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2023-07-01": 32
     }
@@ -674,7 +674,7 @@
     "timeDay": 712,
     "timeWeek": 766,
     "timeMonth": 775,
-    "timeYear": 891,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2023-05-12": 26
     }
@@ -694,7 +694,7 @@
     "timeDay": 560,
     "timeWeek": 627,
     "timeMonth": 598,
-    "timeYear": 651,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2022-09-02": 19
     }
@@ -774,7 +774,7 @@
     "timeDay": 705,
     "timeWeek": 786,
     "timeMonth": 770,
-    "timeYear": 844,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2023-01-25": 37
     }
@@ -794,7 +794,7 @@
     "timeDay": 505,
     "timeWeek": 586,
     "timeMonth": 605,
-    "timeYear": 645,
+    "timeYear": 646,
     "dailyMinutesDown": {}
   },
   {
@@ -854,7 +854,7 @@
     "timeDay": 794,
     "timeWeek": 1020,
     "timeMonth": 1007,
-    "timeYear": 1321,
+    "timeYear": 1323,
     "dailyMinutesDown": {
       "2023-05-12": 27,
       "2023-03-22": 43,
@@ -1005,10 +1005,10 @@
     "url": "https://openstack.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "open-stack-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 622,
@@ -1017,6 +1017,7 @@
     "timeMonth": 584,
     "timeYear": 622,
     "dailyMinutesDown": {
+      "2023-08-22": 1,
       "2023-08-14": 26,
       "2023-08-13": 19
     }
