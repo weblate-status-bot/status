@@ -6,9 +6,9 @@
     "slug": "hosted-weblate",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "96.67%",
-    "uptimeMonth": "97.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "97.98%",
     "uptimeYear": "99.19%",
     "time": 1464,
     "timeDay": 1396,
@@ -16,7 +16,6 @@
     "timeMonth": 1322,
     "timeYear": 1462,
     "dailyMinutesDown": {
-      "2023-09-01": 13,
       "2023-08-30": 89,
       "2023-08-29": 157,
       "2023-08-28": 77,
@@ -701,9 +700,7 @@
     "timeWeek": 719,
     "timeMonth": 614,
     "timeYear": 654,
-    "dailyMinutesDown": {
-      "2022-09-02": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Artefactual's Weblate",
