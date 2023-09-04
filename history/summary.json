@@ -1009,10 +1009,10 @@
     "url": "https://openstack.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "open-stack-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
     "time": 620,
@@ -1021,6 +1021,7 @@
     "timeMonth": 593,
     "timeYear": 620,
     "dailyMinutesDown": {
+      "2023-09-04": 2,
       "2023-08-28": 25,
       "2023-08-14": 26,
       "2023-08-13": 19
