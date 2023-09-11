@@ -1,7 +1,7 @@
 url: https://translations.metabrainz.org/
-status: up
-code: 200
-responseTime: 728
-lastUpdated: 2023-09-10T23:11:27.872Z
+status: down
+code: 502
+responseTime: 689
+lastUpdated: 2023-09-11T17:41:20.383Z
 startTime: 2022-03-16T11:08:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
