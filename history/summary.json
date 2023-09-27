@@ -12,7 +12,7 @@
     "uptimeYear": "99.19%",
     "time": 1472,
     "timeDay": 923,
-    "timeWeek": 951,
+    "timeWeek": 928,
     "timeMonth": 1465,
     "timeYear": 1490,
     "dailyMinutesDown": {
@@ -314,7 +314,7 @@
     "time": 731,
     "timeDay": 788,
     "timeWeek": 815,
-    "timeMonth": 760,
+    "timeMonth": 759,
     "timeYear": 730,
     "dailyMinutesDown": {
       "2023-09-10": 18,
@@ -469,7 +469,7 @@
     "time": 623,
     "timeDay": 769,
     "timeWeek": 700,
-    "timeMonth": 661,
+    "timeMonth": 658,
     "timeYear": 630,
     "dailyMinutesDown": {
       "2023-09-10": 18,
@@ -995,10 +995,10 @@
     "url": "https://weblate.auvesy-mdt.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "auvesy-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 711,
@@ -1007,6 +1007,7 @@
     "timeMonth": 805,
     "timeYear": 711,
     "dailyMinutesDown": {
+      "2023-09-27": 2,
       "2023-08-03": 65
     }
   },
@@ -1024,7 +1025,7 @@
     "time": 620,
     "timeDay": 758,
     "timeWeek": 667,
-    "timeMonth": 619,
+    "timeMonth": 620,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2023-09-10": 18,
