@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.28%",
     "time": 1417,
     "timeDay": 732,
-    "timeWeek": 693,
+    "timeWeek": 736,
     "timeMonth": 834,
     "timeYear": 1375,
     "dailyMinutesDown": {
@@ -1091,18 +1091,20 @@
     "url": "https://aidu.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "aidu-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 562,
     "timeDay": 440,
     "timeWeek": 552,
     "timeMonth": 562,
     "timeYear": 562,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-15": 2
+    }
   },
   {
     "name": "RDS Weblate",
