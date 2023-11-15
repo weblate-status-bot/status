@@ -14,7 +14,7 @@
     "timeDay": 596,
     "timeWeek": 746,
     "timeMonth": 832,
-    "timeYear": 1373,
+    "timeYear": 1374,
     "dailyMinutesDown": {
       "2023-11-08": 48,
       "2023-10-29": 32,
@@ -274,7 +274,7 @@
     "timeDay": 681,
     "timeWeek": 946,
     "timeMonth": 906,
-    "timeYear": 796,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2023-07-01": 21,
       "2023-04-29": 17
@@ -804,7 +804,7 @@
     "timeDay": 566,
     "timeWeek": 655,
     "timeMonth": 648,
-    "timeYear": 653,
+    "timeYear": 651,
     "dailyMinutesDown": {}
   },
   {
@@ -822,7 +822,7 @@
     "timeDay": 665,
     "timeWeek": 882,
     "timeMonth": 884,
-    "timeYear": 902,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2023-06-05": 276,
       "2023-06-04": 47
@@ -863,7 +863,7 @@
     "timeDay": 939,
     "timeWeek": 995,
     "timeMonth": 1048,
-    "timeYear": 1352,
+    "timeYear": 1354,
     "dailyMinutesDown": {
       "2023-10-29": 72,
       "2023-05-12": 27,
@@ -1091,19 +1091,19 @@
     "url": "https://aidu.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "aidu-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 643,
-    "timeDay": 4885,
-    "timeWeek": 2011,
-    "timeMonth": 958,
-    "timeYear": 643,
+    "time": 771,
+    "timeDay": 8999,
+    "timeWeek": 3944,
+    "timeMonth": 1557,
+    "timeYear": 771,
     "dailyMinutesDown": {
-      "2023-11-15": 1
+      "2023-11-15": 7
     }
   },
   {
