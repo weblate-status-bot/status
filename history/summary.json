@@ -1093,18 +1093,16 @@
     "slug": "aidu-weblate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 771,
     "timeDay": 8999,
     "timeWeek": 3944,
     "timeMonth": 1557,
     "timeYear": 771,
-    "dailyMinutesDown": {
-      "2023-11-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RDS Weblate",
