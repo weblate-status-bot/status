@@ -1091,19 +1091,19 @@
     "url": "https://aidu.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "aidu-weblate",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 810,
-    "timeDay": 7337,
-    "timeWeek": 3955,
-    "timeMonth": 1694,
-    "timeYear": 810,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.97%",
+    "time": 841,
+    "timeDay": 7133,
+    "timeWeek": 4106,
+    "timeMonth": 1808,
+    "timeYear": 841,
     "dailyMinutesDown": {
-      "2023-11-16": 21
+      "2023-11-16": 56
     }
   },
   {
