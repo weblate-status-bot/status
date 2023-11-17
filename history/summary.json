@@ -996,12 +996,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 763,
     "timeDay": 574,
-    "timeWeek": 1159,
+    "timeWeek": 671,
     "timeMonth": 869,
     "timeYear": 763,
     "dailyMinutesDown": {
@@ -1038,72 +1038,79 @@
     "url": "https://buildinglink.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "building-link-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 559,
     "timeDay": 449,
     "timeWeek": 499,
     "timeMonth": 556,
     "timeYear": 559,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 3
+    }
   },
   {
     "name": "Qosenergy Weblate",
     "url": "https://weblate.qosenergy.it/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "qosenergy-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 754,
     "timeDay": 635,
     "timeWeek": 716,
     "timeMonth": 778,
     "timeYear": 754,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 3
+    }
   },
   {
     "name": "SAS Weblate",
     "url": "https://weblate.santanderauto.systems/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "sas-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 651,
     "timeDay": 566,
     "timeWeek": 620,
     "timeMonth": 638,
     "timeYear": 651,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 3
+    }
   },
   {
     "name": "AIDU Weblate",
     "url": "https://aidu.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "aidu-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "96.09%",
-    "uptimeWeek": "99.44%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
     "time": 842,
-    "timeDay": 3158,
+    "timeDay": 432,
     "timeWeek": 3895,
     "timeMonth": 1797,
     "timeYear": 842,
     "dailyMinutesDown": {
+      "2023-11-17": 3,
       "2023-11-16": 56
     }
   },
@@ -1112,28 +1119,30 @@
     "url": "https://rds.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "rds-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 558,
     "timeDay": 440,
     "timeWeek": 508,
     "timeMonth": 572,
     "timeYear": 558,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 2
+    }
   },
   {
     "name": "MoJ Weblate",
     "url": "https://moj.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "mo-j-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 566,
@@ -1141,17 +1150,19 @@
     "timeWeek": 543,
     "timeMonth": 587,
     "timeYear": 566,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 2
+    }
   },
   {
     "name": "UN EP Weblate",
     "url": "https://unep.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "un-ep-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 546,
@@ -1159,6 +1170,8 @@
     "timeWeek": 483,
     "timeMonth": 550,
     "timeYear": 546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 2
+    }
   }
 ]
