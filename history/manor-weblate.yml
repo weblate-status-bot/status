@@ -1,7 +1,7 @@
 url: https://manor.weblate.cloud
-status: up
-code: 200
-responseTime: 879
-lastUpdated: 2023-12-06T23:13:28.510Z
+status: down
+code: 502
+responseTime: 345
+lastUpdated: 2023-12-07T08:46:12.351Z
 startTime: 2021-12-18T14:38:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
