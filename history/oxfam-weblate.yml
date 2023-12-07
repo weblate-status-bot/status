@@ -1,7 +1,7 @@
 url: https://oxfam.weblate.cloud/
-status: up
-code: 200
-responseTime: 722
-lastUpdated: 2023-12-06T23:13:25.043Z
+status: down
+code: 502
+responseTime: 349
+lastUpdated: 2023-12-07T08:46:02.788Z
 startTime: 2021-07-15T18:44:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
