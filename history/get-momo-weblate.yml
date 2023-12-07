@@ -1,7 +1,7 @@
 url: https://weblate.getmomo.net/
-status: up
-code: 200
-responseTime: 925
-lastUpdated: 2023-12-06T23:13:37.843Z
+status: down
+code: 502
+responseTime: 389
+lastUpdated: 2023-12-07T12:49:47.335Z
 startTime: 2022-05-27T18:55:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
