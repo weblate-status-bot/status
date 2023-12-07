@@ -1,7 +1,7 @@
 url: https://papirfly.weblate.cloud/
-status: up
-code: 200
-responseTime: 1556
-lastUpdated: 2023-12-06T23:13:45.798Z
+status: down
+code: 502
+responseTime: 910
+lastUpdated: 2023-12-07T08:46:49.821Z
 startTime: 2022-11-30T15:44:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
