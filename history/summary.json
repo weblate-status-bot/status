@@ -107,10 +107,10 @@
     "url": "https://docs.weblate.org",
     "icon": "https://icons.duckduckgo.com/ip3/docs.weblate.org.ico",
     "slug": "weblate-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 466,
@@ -119,7 +119,7 @@
     "timeMonth": 441,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2023-12-09": 24,
+      "2023-12-09": 25,
       "2023-08-28": 17
     }
   },
