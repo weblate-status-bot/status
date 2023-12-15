@@ -983,10 +983,10 @@
     "url": "https://syncron.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "syncron-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "95.54%",
-    "uptimeWeek": "99.36%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 639,
@@ -995,6 +995,7 @@
     "timeMonth": 539,
     "timeYear": 652,
     "dailyMinutesDown": {
+      "2023-12-15": 2,
       "2023-12-14": 65,
       "2023-06-26": 32
     }
