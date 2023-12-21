@@ -987,10 +987,10 @@
     "url": "https://syncron.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "syncron-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.91%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
     "time": 638,
@@ -999,6 +999,7 @@
     "timeMonth": 560,
     "timeYear": 651,
     "dailyMinutesDown": {
+      "2023-12-21": 2,
       "2023-12-15": 46,
       "2023-12-14": 65,
       "2023-06-26": 32
