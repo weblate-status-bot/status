@@ -1,7 +1,7 @@
 url: backups.weblate.cloud
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-05T11:22:41.304Z
+status: up
+code: 200
+responseTime: 93
+lastUpdated: 2024-01-05T11:34:10.881Z
 startTime: 2021-09-30T12:06:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
