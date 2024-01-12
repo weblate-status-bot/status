@@ -12,7 +12,7 @@
     "uptimeYear": "99.23%",
     "time": 1463,
     "timeDay": 804,
-    "timeWeek": 808,
+    "timeWeek": 820,
     "timeMonth": 1431,
     "timeYear": 1430,
     "dailyMinutesDown": {
@@ -209,7 +209,7 @@
     "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 105,
-    "timeWeek": 111,
+    "timeWeek": 113,
     "timeMonth": 131,
     "timeYear": 195,
     "dailyMinutesDown": {
@@ -229,7 +229,7 @@
     "uptimeYear": "99.62%",
     "time": 1074,
     "timeDay": 760,
-    "timeWeek": 878,
+    "timeWeek": 888,
     "timeMonth": 1011,
     "timeYear": 1068,
     "dailyMinutesDown": {
@@ -256,7 +256,7 @@
     "uptimeYear": "99.93%",
     "time": 775,
     "timeDay": 582,
-    "timeWeek": 644,
+    "timeWeek": 646,
     "timeMonth": 671,
     "timeYear": 787,
     "dailyMinutesDown": {
@@ -300,7 +300,7 @@
     "uptimeYear": "99.98%",
     "time": 798,
     "timeDay": 666,
-    "timeWeek": 725,
+    "timeWeek": 739,
     "timeMonth": 840,
     "timeYear": 821,
     "dailyMinutesDown": {
@@ -458,7 +458,7 @@
     "uptimeYear": "99.98%",
     "time": 615,
     "timeDay": 501,
-    "timeWeek": 627,
+    "timeWeek": 636,
     "timeMonth": 655,
     "timeYear": 620,
     "dailyMinutesDown": {
@@ -626,11 +626,11 @@
     "url": "https://umusic.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "universal-music-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 633,
     "timeDay": 613,
@@ -638,6 +638,7 @@
     "timeMonth": 697,
     "timeYear": 641,
     "dailyMinutesDown": {
+      "2024-01-12": 3,
       "2023-07-01": 32
     }
   },
@@ -995,9 +996,9 @@
     "slug": "syncron-weblate",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.96%",
     "time": 636,
     "timeDay": 622,
@@ -1005,7 +1006,6 @@
     "timeMonth": 588,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2024-01-12": 12,
       "2023-12-21": 44,
       "2023-12-15": 46,
       "2023-12-14": 65,
@@ -1035,10 +1035,10 @@
     "url": "https://weblate.auvesy-mdt.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "auvesy-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 756,
@@ -1047,6 +1047,7 @@
     "timeMonth": 733,
     "timeYear": 756,
     "dailyMinutesDown": {
+      "2024-01-12": 2,
       "2023-12-11": 19,
       "2023-11-10": 20,
       "2023-08-03": 65
