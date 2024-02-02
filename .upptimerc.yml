@@ -146,9 +146,9 @@ sites:
   - name: OpenStack Weblate
     url: https://openstack.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
-#  - name: UN OHCHR Weblate
-#    url: https://unohchr.weblate.cloud/
-#    icon: https://s.weblate.org/cdn/logo-32.png
+  - name: UN OHCHR Weblate
+    url: https://unohchr.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: BuildingLink Weblate
     url: https://buildinglink.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
@@ -169,6 +169,9 @@ sites:
     icon: https://s.weblate.org/cdn/logo-32.png
   - name: UN EP Weblate
     url: https://unep.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Burohelp Weblate
+    url: https://burohelp.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
 
 status-website:
