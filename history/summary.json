@@ -1274,18 +1274,18 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "enovation-weblate",
     "status": "down",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 403,
     "timeDay": 403,
     "timeWeek": 403,
     "timeMonth": 403,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2024-04-02": 2
+      "2024-04-02": 3
     }
   }
 ]
