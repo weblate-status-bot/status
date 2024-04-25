@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.71%",
     "uptimeDay": "98.15%",
-    "uptimeWeek": "98.45%",
+    "uptimeWeek": "98.90%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.43%",
     "time": 1303,
     "timeDay": 939,
-    "timeWeek": 1425,
+    "timeWeek": 1504,
     "timeMonth": 1047,
-    "timeYear": 1253,
+    "timeYear": 1254,
     "dailyMinutesDown": {
       "2024-04-24": 27,
       "2024-04-21": 33,
@@ -107,7 +107,7 @@
     "timeDay": 482,
     "timeWeek": 345,
     "timeMonth": 370,
-    "timeYear": 476,
+    "timeYear": 477,
     "dailyMinutesDown": {
       "2023-12-09": 39,
       "2023-08-28": 17
@@ -216,7 +216,7 @@
     "timeDay": 112,
     "timeWeek": 108,
     "timeMonth": 106,
-    "timeYear": 171,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   },
   {
@@ -462,7 +462,7 @@
     "timeDay": 653,
     "timeWeek": 611,
     "timeMonth": 588,
-    "timeYear": 619,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2023-07-01": 32,
       "2023-05-16": 25
@@ -568,7 +568,7 @@
     "timeDay": 487,
     "timeWeek": 480,
     "timeMonth": 492,
-    "timeYear": 596,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2024-01-09": 196,
       "2023-08-28": 17,
@@ -632,7 +632,7 @@
     "timeDay": 634,
     "timeWeek": 614,
     "timeMonth": 617,
-    "timeYear": 648,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2023-07-01": 32
     }
@@ -755,7 +755,7 @@
     "timeDay": 709,
     "timeWeek": 680,
     "timeMonth": 682,
-    "timeYear": 699,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2023-12-07": 22,
       "2023-06-21": 1043,
@@ -896,7 +896,7 @@
     "timeDay": 1109,
     "timeWeek": 941,
     "timeMonth": 1057,
-    "timeYear": 1214,
+    "timeYear": 1215,
     "dailyMinutesDown": {
       "2023-10-29": 72,
       "2023-05-12": 27
@@ -953,7 +953,7 @@
     "timeDay": 915,
     "timeWeek": 958,
     "timeMonth": 1022,
-    "timeYear": 1128,
+    "timeYear": 1129,
     "dailyMinutesDown": {
       "2023-07-01": 749,
       "2023-06-07": 25
@@ -1222,18 +1222,20 @@
     "url": "https://burohelp.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "burohelp-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 910,
-    "timeDay": 1036,
-    "timeWeek": 895,
-    "timeMonth": 904,
-    "timeYear": 910,
-    "dailyMinutesDown": {}
+    "time": 907,
+    "timeDay": 831,
+    "timeWeek": 861,
+    "timeMonth": 896,
+    "timeYear": 907,
+    "dailyMinutesDown": {
+      "2024-04-25": 2
+    }
   },
   {
     "name": "Daimler Weblate",
