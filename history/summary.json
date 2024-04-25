@@ -1222,19 +1222,19 @@
     "url": "https://burohelp.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "burohelp-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 907,
-    "timeDay": 831,
-    "timeWeek": 861,
-    "timeMonth": 896,
-    "timeYear": 907,
+    "time": 906,
+    "timeDay": 835,
+    "timeWeek": 859,
+    "timeMonth": 895,
+    "timeYear": 906,
     "dailyMinutesDown": {
-      "2024-04-25": 2
+      "2024-04-25": 3
     }
   },
   {
