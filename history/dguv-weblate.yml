@@ -1,7 +1,7 @@
 url: https://weblate.dguv.de/
-status: up
-code: 200
-responseTime: 1010
-lastUpdated: 2024-05-03T10:57:00.101Z
+status: down
+code: 502
+responseTime: 550
+lastUpdated: 2024-05-03T17:53:36.411Z
 startTime: 2022-03-17T12:36:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
