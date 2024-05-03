@@ -1224,11 +1224,11 @@
     "url": "https://burohelp.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "burohelp-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.96%",
     "time": 910,
     "timeDay": 969,
@@ -1236,7 +1236,7 @@
     "timeMonth": 909,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2024-05-03": 31,
+      "2024-05-03": 33,
       "2024-04-27": 18
     }
   },
