@@ -525,11 +525,11 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "profil-klett-weblate",
     "status": "up",
-    "uptime": "85.70%",
+    "uptime": "85.71%",
     "uptimeDay": "98.65%",
     "uptimeWeek": "86.81%",
     "uptimeMonth": "86.81%",
-    "uptimeYear": "85.81%",
+    "uptimeYear": "85.82%",
     "time": 782,
     "timeDay": 589,
     "timeWeek": 1156,
@@ -1369,18 +1369,18 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "open-suse-weblate",
     "status": "down",
-    "uptime": "0.28%",
-    "uptimeDay": "0.28%",
-    "uptimeWeek": "0.28%",
-    "uptimeMonth": "0.28%",
-    "uptimeYear": "0.28%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-14": 3
+      "2024-05-14": 5
     }
   }
 ]
