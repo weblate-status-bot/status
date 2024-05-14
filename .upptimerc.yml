@@ -188,6 +188,9 @@ sites:
   - name: ElPro Weblate
     url: https://elpro.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: openSUSE Weblate
+    url: https://l10n.opensuse.org/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
