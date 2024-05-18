@@ -6,15 +6,15 @@
     "slug": "hosted-weblate",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "98.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.39%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.40%",
     "time": 1240,
-    "timeDay": 1985,
-    "timeWeek": 967,
-    "timeMonth": 1101,
-    "timeYear": 1228,
+    "timeDay": 756,
+    "timeWeek": 1007,
+    "timeMonth": 1117,
+    "timeYear": 1229,
     "dailyMinutesDown": {
       "2024-05-17": 16,
       "2024-05-13": 20,
@@ -181,7 +181,7 @@
     "timeDay": 358,
     "timeWeek": 388,
     "timeMonth": 325,
-    "timeYear": 327,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2023-08-28": 17
     }
@@ -237,7 +237,7 @@
     "timeDay": 781,
     "timeWeek": 977,
     "timeMonth": 937,
-    "timeYear": 997,
+    "timeYear": 998,
     "dailyMinutesDown": {
       "2023-12-15": 76,
       "2023-11-16": 86,
@@ -329,7 +329,7 @@
     "timeDay": 620,
     "timeWeek": 741,
     "timeMonth": 838,
-    "timeYear": 788,
+    "timeYear": 787,
     "dailyMinutesDown": {
       "2023-07-01": 32
     }
@@ -521,19 +521,19 @@
     "url": "https://profil-klett.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "profil-klett-weblate",
-    "status": "up",
-    "uptime": "90.09%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "97.14%",
-    "uptimeMonth": "90.74%",
-    "uptimeYear": "90.34%",
+    "status": "down",
+    "uptime": "90.80%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "91.40%",
+    "uptimeYear": "91.03%",
     "time": 780,
-    "timeDay": 621,
+    "timeDay": 624,
     "timeWeek": 591,
     "timeMonth": 960,
-    "timeYear": 832,
+    "timeYear": 833,
     "dailyMinutesDown": {
-      "2024-05-18": 32,
+      "2024-05-18": 34,
       "2024-05-17": 11,
       "2024-05-15": 101,
       "2024-05-14": 43,
@@ -602,7 +602,7 @@
     "timeDay": 690,
     "timeWeek": 556,
     "timeMonth": 518,
-    "timeYear": 578,
+    "timeYear": 577,
     "dailyMinutesDown": {
       "2024-01-09": 196,
       "2023-08-28": 17,
@@ -624,7 +624,7 @@
     "timeDay": 648,
     "timeWeek": 788,
     "timeMonth": 754,
-    "timeYear": 763,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2024-05-03": 25,
       "2023-07-01": 32
@@ -665,7 +665,7 @@
     "timeDay": 544,
     "timeWeek": 697,
     "timeMonth": 668,
-    "timeYear": 652,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2023-07-01": 32
     }
@@ -728,7 +728,7 @@
     "timeDay": 706,
     "timeWeek": 836,
     "timeMonth": 795,
-    "timeYear": 800,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2023-12-07": 22,
       "2023-08-22": 25
@@ -833,7 +833,7 @@
     "timeDay": 562,
     "timeWeek": 672,
     "timeMonth": 623,
-    "timeYear": 610,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2024-05-03": 25
     }
@@ -873,7 +873,7 @@
     "timeDay": 635,
     "timeWeek": 716,
     "timeMonth": 685,
-    "timeYear": 677,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2024-05-03": 25,
       "2023-12-07": 22
@@ -1057,7 +1057,7 @@
     "timeDay": 742,
     "timeWeek": 890,
     "timeMonth": 956,
-    "timeYear": 849,
+    "timeYear": 850,
     "dailyMinutesDown": {}
   },
   {
@@ -1269,7 +1269,7 @@
     "uptimeYear": "99.76%",
     "time": 940,
     "timeDay": 834,
-    "timeWeek": 1016,
+    "timeWeek": 1041,
     "timeMonth": 987,
     "timeYear": 940,
     "dailyMinutesDown": {
@@ -1366,11 +1366,11 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "open-suse-weblate",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "98.41%",
-    "uptimeYear": "98.41%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
     "time": 990,
     "timeDay": 742,
     "timeWeek": 990,
