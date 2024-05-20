@@ -73,8 +73,7 @@
       "2023-06-20": 25,
       "2023-06-12": 27,
       "2023-06-03": 97,
-      "2023-05-30": 21,
-      "2023-05-21": 21
+      "2023-05-30": 21
     }
   },
   {
@@ -522,11 +521,11 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "profil-klett-weblate",
     "status": "up",
-    "uptime": "91.70%",
+    "uptime": "91.72%",
     "uptimeDay": "98.61%",
     "uptimeWeek": "97.28%",
-    "uptimeMonth": "92.23%",
-    "uptimeYear": "91.91%",
+    "uptimeMonth": "92.25%",
+    "uptimeYear": "91.93%",
     "time": 778,
     "timeDay": 620,
     "timeWeek": 589,
@@ -1264,9 +1263,9 @@
     "slug": "burohelp-weblate",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "95.06%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "99.72%",
     "time": 1128,
     "timeDay": 4719,
@@ -1274,7 +1273,7 @@
     "timeMonth": 1449,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2024-05-19": 72,
+      "2024-05-19": 60,
       "2024-05-08": 192,
       "2024-05-07": 52,
       "2024-05-03": 104,
