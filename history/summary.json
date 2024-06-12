@@ -1395,19 +1395,19 @@
     "url": "https://qics.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "qics-weblate",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
-    "time": 372,
-    "timeDay": 372,
-    "timeWeek": 372,
-    "timeMonth": 372,
-    "timeYear": 372,
+    "status": "up",
+    "uptime": "98.98%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 518,
+    "timeDay": 518,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2024-06-12": 2
+      "2024-06-12": 4
     }
   }
 ]
