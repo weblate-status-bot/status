@@ -105,7 +105,7 @@ sites:
     url: https://translations.artefactual.com/
     icon: https://s.weblate.org/cdn/logo-32.png
   - name: LS Weblate
-    url: https://tmhe.weblate.cloud/
+    url: https://t-hive.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
   - name: Salling Weblate
     url: https://salling.weblate.cloud/
