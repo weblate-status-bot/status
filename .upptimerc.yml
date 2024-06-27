@@ -194,6 +194,9 @@ sites:
   - name: QICS Weblate
     url: https://qics.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Shypple Weblate
+    url: https://weblate.shypple.com/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
