@@ -197,6 +197,9 @@ sites:
   - name: Shypple Weblate
     url: https://weblate.shypple.com/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: BIT Weblate
+    url: https://bit.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
