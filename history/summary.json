@@ -76,18 +76,16 @@
     "slug": "weblate-care",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 531,
     "timeDay": 542,
     "timeWeek": 557,
     "timeMonth": 547,
     "timeYear": 532,
-    "dailyMinutesDown": {
-      "2024-07-03": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Weblate Documentation",
@@ -186,10 +184,10 @@
     "url": "https://hg.weblate.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "weblate-mercurial-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 479,
@@ -197,7 +195,9 @@
     "timeWeek": 439,
     "timeMonth": 460,
     "timeYear": 479,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-03": 1
+    }
   },
   {
     "name": "Weblate Cloud Backup Service",
@@ -509,11 +509,11 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "profil-klett-weblate",
     "status": "up",
-    "uptime": "97.93%",
+    "uptime": "97.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.03%",
+    "uptimeYear": "98.04%",
     "time": 915,
     "timeDay": 438,
     "timeWeek": 537,
