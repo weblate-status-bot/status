@@ -200,10 +200,10 @@
     "url": "backups.weblate.cloud",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "weblate-cloud-backup-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
@@ -211,7 +211,9 @@
     "timeWeek": 126,
     "timeMonth": 113,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-18": 1
+    }
   },
   {
     "name": "Fedora Weblate",
@@ -504,11 +506,11 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "profil-klett-weblate",
     "status": "up",
-    "uptime": "98.36%",
+    "uptime": "98.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.44%",
+    "uptimeYear": "98.45%",
     "time": 906,
     "timeDay": 726,
     "timeWeek": 600,
