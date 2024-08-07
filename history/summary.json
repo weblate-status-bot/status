@@ -509,7 +509,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.80%",
     "time": 856,
     "timeDay": 509,
     "timeWeek": 562,
@@ -1375,10 +1375,10 @@
     "url": "https://weblate.shypple.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "shypple-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 681,
@@ -1386,7 +1386,9 @@
     "timeWeek": 654,
     "timeMonth": 709,
     "timeYear": 681,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-07": 2
+    }
   },
   {
     "name": "BIT Weblate",
