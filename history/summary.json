@@ -553,19 +553,19 @@
     "url": "https://translate.snomedtools.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "snomed-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 777,
-    "timeDay": 782,
-    "timeWeek": 735,
+    "timeDay": 750,
+    "timeWeek": 732,
     "timeMonth": 742,
     "timeYear": 768,
     "dailyMinutesDown": {
-      "2024-08-14": 1
+      "2024-08-14": 13
     }
   },
   {
