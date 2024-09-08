@@ -164,10 +164,10 @@
     "url": "https://hg.weblate.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "weblate-mercurial-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "93.79%",
-    "uptimeWeek": "95.91%",
+    "uptimeDay": "93.70%",
+    "uptimeWeek": "95.89%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.83%",
     "time": 604,
@@ -176,7 +176,7 @@
     "timeMonth": 1147,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2024-09-08": 89,
+      "2024-09-08": 90,
       "2024-09-07": 324,
       "2024-07-04": 26,
       "2024-07-03": 26
