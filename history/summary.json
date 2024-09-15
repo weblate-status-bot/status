@@ -223,8 +223,7 @@
     "dailyMinutesDown": {
       "2023-12-15": 76,
       "2023-11-16": 86,
-      "2023-11-06": 8,
-      "2023-09-16": 17
+      "2023-11-06": 8
     }
   },
   {
@@ -233,10 +232,10 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "kodi-weblate",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 794,
     "timeDay": 657,
@@ -244,7 +243,6 @@
     "timeMonth": 786,
     "timeYear": 800,
     "dailyMinutesDown": {
-      "2024-09-14": 11,
       "2024-06-29": 25,
       "2024-05-03": 25
     }
