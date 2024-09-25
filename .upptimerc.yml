@@ -200,6 +200,9 @@ sites:
   - name: BIT Weblate
     url: https://bit.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Uniper Weblate
+    url: https://uniper.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
