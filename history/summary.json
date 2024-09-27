@@ -362,12 +362,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 694,
     "timeDay": 722,
     "timeWeek": 661,
-    "timeMonth": 646,
+    "timeMonth": 649,
     "timeYear": 681,
     "dailyMinutesDown": {
       "2024-08-27": 25,
@@ -615,10 +615,10 @@
     "url": "https://umusic.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "universal-music-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 653,
@@ -626,7 +626,9 @@
     "timeWeek": 683,
     "timeMonth": 648,
     "timeYear": 658,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-27": 2
+    }
   },
   {
     "name": "Doka Weblate",
@@ -1017,12 +1019,12 @@
     "status": "up",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.31%",
+    "uptimeWeek": "99.49%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.94%",
     "time": 747,
     "timeDay": 696,
-    "timeWeek": 616,
+    "timeWeek": 601,
     "timeMonth": 626,
     "timeYear": 738,
     "dailyMinutesDown": {
