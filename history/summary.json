@@ -486,7 +486,7 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "profil-klett-weblate",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -615,19 +615,19 @@
     "url": "https://umusic.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "universal-music-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 653,
-    "timeDay": 782,
-    "timeWeek": 683,
+    "timeDay": 736,
+    "timeWeek": 679,
     "timeMonth": 648,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2024-09-27": 2
+      "2024-09-27": 11
     }
   },
   {
