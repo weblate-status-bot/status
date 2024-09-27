@@ -203,6 +203,9 @@ sites:
   - name: Uniper Weblate
     url: https://uniper.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Shoptet Weblate
+    url: https://shoptet.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
