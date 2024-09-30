@@ -1411,19 +1411,19 @@
     "url": "https://shoptet.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "shoptet-weblate",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 644,
-    "timeDay": 528,
-    "timeWeek": 644,
-    "timeMonth": 644,
-    "timeYear": 644,
+    "status": "up",
+    "uptime": "97.42%",
+    "uptimeDay": "93.02%",
+    "uptimeWeek": "97.42%",
+    "uptimeMonth": "97.42%",
+    "uptimeYear": "97.42%",
+    "time": 677,
+    "timeDay": 669,
+    "timeWeek": 677,
+    "timeMonth": 677,
+    "timeYear": 677,
     "dailyMinutesDown": {
-      "2024-09-30": 3
+      "2024-09-30": 101
     }
   }
 ]
