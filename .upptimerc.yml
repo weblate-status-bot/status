@@ -206,6 +206,9 @@ sites:
   - name: Shoptet Weblate
     url: https://shoptet.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: ISAGRI Weblate
+    url: https://isagri.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
