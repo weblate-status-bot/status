@@ -209,6 +209,12 @@ sites:
   - name: ISAGRI Weblate
     url: https://isagri.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: niceshops Weblate
+    url: https://translate.niceshops.com/
+    icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Numia Weblate
+    url: https:/weblate.numia.co/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
