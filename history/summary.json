@@ -1481,17 +1481,19 @@
     "url": "https://translation.group.cab/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "click-and-boat-weblate",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1122,
-    "timeDay": 1122,
-    "timeWeek": 1122,
-    "timeMonth": 1122,
-    "timeYear": 1122,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "93.43%",
+    "uptimeDay": "93.43%",
+    "uptimeWeek": "93.43%",
+    "uptimeMonth": "93.43%",
+    "uptimeYear": "93.43%",
+    "time": 1059,
+    "timeDay": 1059,
+    "timeWeek": 1059,
+    "timeMonth": 1059,
+    "timeYear": 1059,
+    "dailyMinutesDown": {
+      "2024-10-23": 3
+    }
   }
 ]
