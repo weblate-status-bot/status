@@ -218,6 +218,9 @@ sites:
   - name: Click&Boat Weblate
     url: https://translation.group.cab/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: BMAT Weblate
+    url: https://bmat.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
