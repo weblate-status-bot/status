@@ -313,11 +313,11 @@
     "url": "https://translate.solocoo.tv/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "solocoo-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 723,
     "timeDay": 712,
@@ -325,6 +325,7 @@
     "timeMonth": 759,
     "timeYear": 718,
     "dailyMinutesDown": {
+      "2024-11-11": 1,
       "2024-11-02": 19,
       "2024-05-03": 25
     }
