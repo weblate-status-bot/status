@@ -221,6 +221,12 @@ sites:
   - name: BMAT Weblate
     url: https://bmat.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: momox Weblate
+    url: https://weblate.mb.int.momox.biz/
+    icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Exporto Weblate
+    url: https://weblate.exporto.io/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
