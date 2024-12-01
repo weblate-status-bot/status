@@ -1464,10 +1464,10 @@
     "url": "https://shoptet.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "shoptet-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
     "time": 638,
@@ -1476,6 +1476,7 @@
     "timeMonth": 662,
     "timeYear": 638,
     "dailyMinutesDown": {
+      "2024-12-01": 2,
       "2024-11-20": 17,
       "2024-09-30": 101
     }
