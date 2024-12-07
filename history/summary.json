@@ -1575,19 +1575,19 @@
     "url": "https://weblate.mb.int.momox.biz/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "momox-weblate",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 770,
-    "timeDay": 761,
-    "timeWeek": 770,
-    "timeMonth": 770,
-    "timeYear": 770,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 790,
+    "timeDay": 1030,
+    "timeWeek": 836,
+    "timeMonth": 790,
+    "timeYear": 790,
     "dailyMinutesDown": {
-      "2024-12-07": 2
+      "2024-12-07": 40
     }
   },
   {
