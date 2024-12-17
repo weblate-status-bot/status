@@ -74,9 +74,6 @@ sites:
   - name: SNOMED Weblate
     url: https://translate.snomedtools.org/
     icon: https://s.weblate.org/cdn/logo-32.png
-  - name: Shopop Weblate
-    url: https://weblate.shopopop.com/
-    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Shayp Weblate
     url: https://weblate.shayp.io/
     icon: https://s.weblate.org/cdn/logo-32.png
