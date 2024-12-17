@@ -185,18 +185,20 @@
     "url": "https://translate.fedoraproject.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "fedora-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 978,
-    "timeDay": 1076,
-    "timeWeek": 959,
-    "timeMonth": 956,
-    "timeYear": 946,
-    "dailyMinutesDown": {}
+    "time": 979,
+    "timeDay": 1226,
+    "timeWeek": 1011,
+    "timeMonth": 969,
+    "timeYear": 947,
+    "dailyMinutesDown": {
+      "2024-12-17": 2
+    }
   },
   {
     "name": "Kodi Weblate",
