@@ -125,9 +125,6 @@ sites:
   - name: Schiller Weblate
     url: https://translate.schiller.fr/
     icon: https://s.weblate.org/cdn/logo-32.png
-  - name: Stem Weblate
-    url: https://weblate.stem.com/
-    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Spaziodati Weblate
     url: https://spaziodati.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
