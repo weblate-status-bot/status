@@ -50,19 +50,19 @@
     "url": "https://care.weblate.org",
     "icon": "https://icons.duckduckgo.com/ip3/care.weblate.org.ico",
     "slug": "weblate-care",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "86.32%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.96%",
     "time": 553,
-    "timeDay": 534,
-    "timeWeek": 553,
+    "timeDay": 550,
+    "timeWeek": 556,
     "timeMonth": 593,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2025-01-07": 1
+      "2025-01-07": 197
     }
   },
   {
@@ -840,12 +840,12 @@
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1093,
     "timeDay": 851,
     "timeWeek": 939,
-    "timeMonth": 1045,
+    "timeMonth": 1017,
     "timeYear": 1081,
     "dailyMinutesDown": {
       "2024-12-07": 32,
