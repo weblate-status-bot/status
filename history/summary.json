@@ -98,7 +98,7 @@
     "timeDay": 625,
     "timeWeek": 720,
     "timeMonth": 772,
-    "timeYear": 723,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2024-11-26": 28,
       "2024-11-25": 47,
@@ -637,18 +637,19 @@
     "url": "https://translations.metabrainz.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "meta-brainz-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 818,
+    "time": 816,
     "timeDay": 796,
     "timeWeek": 912,
     "timeMonth": 952,
     "timeYear": 829,
     "dailyMinutesDown": {
+      "2025-01-10": 1,
       "2024-06-01": 21,
       "2024-05-24": 19
     }
