@@ -218,6 +218,9 @@ sites:
   - name: Exporto Weblate
     url: https://weblate.exporto.io/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: EasternGraphics Weblate
+    url: https://weblate.easterngraphics.com/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
