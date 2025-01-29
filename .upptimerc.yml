@@ -221,6 +221,9 @@ sites:
   - name: EasternGraphics Weblate
     url: https://weblate.easterngraphics.com/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: TKE Weblate
+    url: https://tke.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
