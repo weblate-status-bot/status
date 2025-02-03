@@ -1530,19 +1530,19 @@
     "url": "https://weblate.easterngraphics.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "eastern-graphics-weblate",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 939,
-    "timeDay": 898,
-    "timeWeek": 939,
-    "timeMonth": 939,
-    "timeYear": 939,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 920,
+    "timeDay": 849,
+    "timeWeek": 920,
+    "timeMonth": 920,
+    "timeYear": 920,
     "dailyMinutesDown": {
-      "2025-02-03": 3
+      "2025-02-03": 13
     }
   },
   {
