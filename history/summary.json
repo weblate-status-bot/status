@@ -970,7 +970,7 @@
     "timeDay": 635,
     "timeWeek": 780,
     "timeMonth": 809,
-    "timeYear": 703,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2025-01-07": 40,
       "2024-11-02": 19,
@@ -1412,7 +1412,7 @@
     "url": "https://translate.niceshops.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "niceshops-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
