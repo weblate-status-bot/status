@@ -224,6 +224,9 @@ sites:
   - name: TKE Weblate
     url: https://tke.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Keypro Weblate
+    url: https://keypro.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
