@@ -227,6 +227,9 @@ sites:
   - name: Keypro Weblate
     url: https://keypro.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Synerise Weblate
+    url: https://synerise.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
