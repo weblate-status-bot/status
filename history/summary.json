@@ -416,19 +416,19 @@
     "url": "https://sourceability.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "sourceability-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 636,
-    "timeDay": 662,
-    "timeWeek": 707,
-    "timeMonth": 693,
+    "timeDay": 621,
+    "timeWeek": 695,
+    "timeMonth": 689,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2025-02-28": 2
+      "2025-02-28": 12
     }
   },
   {
@@ -967,7 +967,7 @@
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.82%",
     "time": 799,
-    "timeDay": 1089,
+    "timeDay": 1183,
     "timeWeek": 893,
     "timeMonth": 1279,
     "timeYear": 775,
