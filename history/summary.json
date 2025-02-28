@@ -416,10 +416,10 @@
     "url": "https://sourceability.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "sourceability-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 636,
@@ -427,7 +427,9 @@
     "timeWeek": 707,
     "timeMonth": 693,
     "timeYear": 636,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-28": 2
+    }
   },
   {
     "name": "Vernier Weblate",
@@ -1375,18 +1377,17 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "shoptet-weblate",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.84%",
     "time": 660,
     "timeDay": 765,
     "timeWeek": 692,
     "timeMonth": 664,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2025-02-28": 4,
       "2025-02-14": 43,
       "2025-01-09": 99,
       "2024-12-23": 28,
