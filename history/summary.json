@@ -133,12 +133,12 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.90%",
+    "uptimeWeek": "99.14%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.73%",
     "time": 674,
     "timeDay": 515,
-    "timeWeek": 2575,
+    "timeWeek": 2784,
     "timeMonth": 1080,
     "timeYear": 680,
     "dailyMinutesDown": {
@@ -1481,11 +1481,11 @@
     "url": "https://translation.group.cab/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "click-and-boat-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 918,
     "timeDay": 635,
@@ -1493,6 +1493,7 @@
     "timeMonth": 973,
     "timeYear": 918,
     "dailyMinutesDown": {
+      "2025-03-11": 2,
       "2024-10-23": 13
     }
   },
