@@ -1,7 +1,7 @@
 url: https://translate.fedoraproject.org/
-status: down
-code: 502
-responseTime: 627
-lastUpdated: 2025-03-19T10:19:24.954Z
+status: up
+code: 200
+responseTime: 636
+lastUpdated: 2025-03-19T10:53:44.849Z
 startTime: 2021-02-03T12:12:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
