@@ -234,6 +234,9 @@ sites:
   - name: VirtualMinds Weblate
     url: https://weblate.virtualminds.com/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Zenith Watches Weblate
+    url: https://zenith-watches.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
