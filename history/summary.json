@@ -1444,11 +1444,11 @@
     "url": "https://isagri.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "isagri-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "95.39%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
     "time": 665,
     "timeDay": 644,
@@ -1456,7 +1456,7 @@
     "timeMonth": 664,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2025-04-07": 67,
+      "2025-04-07": 71,
       "2024-11-20": 17
     }
   },
