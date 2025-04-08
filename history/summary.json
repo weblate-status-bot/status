@@ -1026,8 +1026,7 @@
       "2024-09-09": 28,
       "2024-08-22": 21,
       "2024-07-18": 43,
-      "2024-07-08": 25,
-      "2024-04-08": 26
+      "2024-07-08": 25
     }
   },
   {
@@ -1444,19 +1443,20 @@
     "url": "https://isagri.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "isagri-weblate",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "91.39%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.94%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "89.81%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.93%",
     "time": 665,
-    "timeDay": 616,
-    "timeWeek": 631,
-    "timeMonth": 665,
+    "timeDay": 640,
+    "timeWeek": 643,
+    "timeMonth": 668,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2025-04-07": 125,
+      "2025-04-08": 1,
+      "2025-04-07": 147,
       "2024-11-20": 17
     }
   },
@@ -1665,18 +1665,20 @@
     "url": "https://weblate.virtualminds.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "virtual-minds-weblate",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 783,
     "timeDay": 589,
     "timeWeek": 691,
     "timeMonth": 783,
     "timeYear": 783,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-08": 2
+    }
   },
   {
     "name": "Zenith Watches Weblate",
