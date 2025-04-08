@@ -258,17 +258,17 @@
     "slug": "eu-rid-weblate",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "67.37%",
-    "uptimeWeek": "95.34%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "99.89%",
+    "uptimeDay": "64.65%",
+    "uptimeWeek": "94.95%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "99.88%",
     "time": 863,
     "timeDay": 808,
     "timeWeek": 780,
     "timeMonth": 852,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2025-04-08": 470,
+      "2025-04-08": 509,
       "2024-11-02": 25,
       "2024-06-10": 19,
       "2024-04-28": 57
@@ -782,19 +782,19 @@
     "url": "https://weblate.oculavis.de/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "oculavis-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 898,
+    "time": 897,
     "timeDay": 876,
     "timeWeek": 979,
     "timeMonth": 970,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2025-04-08": 42
+      "2025-04-08": 44
     }
   },
   {
