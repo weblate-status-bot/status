@@ -258,17 +258,17 @@
     "slug": "eu-rid-weblate",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "74.61%",
-    "uptimeWeek": "96.37%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.91%",
+    "uptimeDay": "70.29%",
+    "uptimeWeek": "95.76%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.90%",
     "time": 863,
     "timeDay": 808,
     "timeWeek": 780,
     "timeMonth": 852,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2025-04-08": 366,
+      "2025-04-08": 428,
       "2024-11-02": 25,
       "2024-06-10": 19,
       "2024-04-28": 57
@@ -723,9 +723,9 @@
     "slug": "artefactual-s-weblate",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 735,
     "timeDay": 692,
@@ -733,7 +733,6 @@
     "timeMonth": 759,
     "timeYear": 739,
     "dailyMinutesDown": {
-      "2025-04-08": 13,
       "2024-06-10": 15,
       "2024-05-03": 25
     }
@@ -783,10 +782,10 @@
     "url": "https://weblate.oculavis.de/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "oculavis-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 897,
@@ -794,7 +793,9 @@
     "timeWeek": 976,
     "timeMonth": 968,
     "timeYear": 901,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-08": 2
+    }
   },
   {
     "name": "GetMomo Weblate",
@@ -1453,7 +1454,7 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.93%",
     "time": 665,
-    "timeDay": 628,
+    "timeDay": 644,
     "timeWeek": 644,
     "timeMonth": 668,
     "timeYear": 665,
