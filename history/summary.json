@@ -1666,18 +1666,18 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "virtual-minds-weblate",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.85%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 783,
     "timeDay": 589,
     "timeWeek": 691,
     "timeMonth": 783,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2025-04-08": 2
+      "2025-04-08": 39
     }
   },
   {
