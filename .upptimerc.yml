@@ -237,6 +237,9 @@ sites:
   - name: Zenith Watches Weblate
     url: https://zenith-watches.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Cosmica Weblate
+    url: https://cosmica.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
