@@ -1,7 +1,7 @@
 url: https://dyson.weblate.org/
-status: up
-code: 200
-responseTime: 682
-lastUpdated: 2025-04-08T12:13:49.146Z
+status: down
+code: 502
+responseTime: 409
+lastUpdated: 2025-04-09T05:59:09.608Z
 startTime: 2021-02-03T12:12:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
