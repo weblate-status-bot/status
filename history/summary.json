@@ -1710,10 +1710,10 @@
     "url": "https://weblate.virtualminds.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "virtual-minds-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "99.59%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.56%",
     "time": 763,
@@ -1722,6 +1722,7 @@
     "timeMonth": 763,
     "timeYear": 763,
     "dailyMinutesDown": {
+      "2025-04-15": 2,
       "2025-04-14": 42,
       "2025-04-08": 120
     }
