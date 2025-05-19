@@ -240,6 +240,9 @@ sites:
   - name: Cosmica Weblate
     url: https://cosmica.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: HIWIN Weblate
+    url: https://weblate.hiwin.dev/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
