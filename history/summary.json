@@ -484,7 +484,7 @@
     "timeDay": 707,
     "timeWeek": 712,
     "timeMonth": 684,
-    "timeYear": 749,
+    "timeYear": 750,
     "dailyMinutesDown": {
       "2025-02-04": 20,
       "2024-05-23": 63,
@@ -1599,18 +1599,20 @@
     "url": "https://weblate.easterngraphics.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "eastern-graphics-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 886,
     "timeDay": 895,
     "timeWeek": 919,
     "timeMonth": 878,
     "timeYear": 886,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-20": 3
+    }
   },
   {
     "name": "TKE Weblate",
