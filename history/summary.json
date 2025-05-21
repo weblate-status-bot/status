@@ -772,10 +772,10 @@
     "url": "https://weblate.oculavis.de/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "oculavis-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 897,
@@ -784,6 +784,7 @@
     "timeMonth": 968,
     "timeYear": 911,
     "dailyMinutesDown": {
+      "2025-05-21": 2,
       "2025-05-16": 20,
       "2025-04-09": 86,
       "2025-04-08": 90
