@@ -256,7 +256,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 856,
-    "timeDay": 816,
+    "timeDay": 1015,
     "timeWeek": 804,
     "timeMonth": 856,
     "timeYear": 871,
@@ -1662,11 +1662,11 @@
     "url": "https://synerise.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "synerise-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.90%",
     "time": 692,
     "timeDay": 635,
@@ -1674,6 +1674,7 @@
     "timeMonth": 686,
     "timeYear": 692,
     "dailyMinutesDown": {
+      "2025-05-21": 3,
       "2025-04-09": 18,
       "2025-04-08": 101
     }
