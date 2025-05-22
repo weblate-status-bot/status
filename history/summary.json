@@ -1663,11 +1663,11 @@
     "url": "https://synerise.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "synerise-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.88%",
     "time": 693,
     "timeDay": 923,
@@ -1675,6 +1675,7 @@
     "timeMonth": 691,
     "timeYear": 693,
     "dailyMinutesDown": {
+      "2025-05-22": 3,
       "2025-05-21": 32,
       "2025-04-09": 18,
       "2025-04-08": 101
