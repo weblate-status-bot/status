@@ -243,6 +243,12 @@ sites:
   - name: HIWIN Weblate
     url: https://weblate.hiwin.dev/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: New Immo Group Weblate
+    url: https://weblate-saas.shared-services-prod.new-immo-group.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
+  - name: REMIRA Weblate
+    url: https://translation.remira.com/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
