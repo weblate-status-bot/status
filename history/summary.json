@@ -204,7 +204,7 @@
     "timeDay": 0,
     "timeWeek": 1003,
     "timeMonth": 2518,
-    "timeYear": 1060,
+    "timeYear": 1061,
     "dailyMinutesDown": {
       "2025-06-03": 851,
       "2025-06-02": 279,
@@ -282,7 +282,7 @@
     "timeDay": 0,
     "timeWeek": 976,
     "timeMonth": 918,
-    "timeYear": 850,
+    "timeYear": 851,
     "dailyMinutesDown": {}
   },
   {
@@ -483,7 +483,7 @@
     "timeDay": 0,
     "timeWeek": 726,
     "timeMonth": 690,
-    "timeYear": 650,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2025-02-04": 20
     }
@@ -651,7 +651,7 @@
     "timeDay": 0,
     "timeWeek": 995,
     "timeMonth": 960,
-    "timeYear": 885,
+    "timeYear": 886,
     "dailyMinutesDown": {
       "2025-05-22": 25,
       "2025-04-09": 18,
@@ -778,7 +778,7 @@
     "timeDay": 0,
     "timeWeek": 1011,
     "timeMonth": 985,
-    "timeYear": 923,
+    "timeYear": 924,
     "dailyMinutesDown": {
       "2025-06-06": 45,
       "2025-06-05": 10,
@@ -1123,19 +1123,19 @@
     "url": "https://weblate.santanderauto.systems/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "sas-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "80.06%",
-    "uptimeWeek": "97.15%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "79.15%",
+    "uptimeWeek": "97.02%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.94%",
     "time": 705,
-    "timeDay": 539,
-    "timeWeek": 711,
-    "timeMonth": 757,
+    "timeDay": 521,
+    "timeWeek": 690,
+    "timeMonth": 749,
     "timeYear": 727,
     "dailyMinutesDown": {
-      "2025-06-12": 250,
+      "2025-06-12": 263,
       "2025-06-11": 37,
       "2025-04-09": 18,
       "2024-11-20": 17
@@ -1783,18 +1783,18 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "new-immo-group-weblate",
     "status": "down",
-    "uptime": "8.20%",
+    "uptime": "8.17%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.20%",
-    "uptimeMonth": "8.20%",
-    "uptimeYear": "8.20%",
+    "uptimeWeek": "8.17%",
+    "uptimeMonth": "8.17%",
+    "uptimeYear": "8.17%",
     "time": 792,
     "timeDay": 0,
     "timeWeek": 792,
     "timeMonth": 792,
     "timeYear": 792,
     "dailyMinutesDown": {
-      "2025-06-12": 452,
+      "2025-06-12": 467,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 280
