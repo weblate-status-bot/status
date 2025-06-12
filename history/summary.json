@@ -204,7 +204,7 @@
     "timeDay": 0,
     "timeWeek": 1003,
     "timeMonth": 2518,
-    "timeYear": 1059,
+    "timeYear": 1060,
     "dailyMinutesDown": {
       "2025-06-03": 851,
       "2025-06-02": 279,
@@ -260,7 +260,7 @@
     "timeDay": 0,
     "timeWeek": 919,
     "timeMonth": 833,
-    "timeYear": 859,
+    "timeYear": 860,
     "dailyMinutesDown": {
       "2025-04-09": 378,
       "2025-04-08": 609,
@@ -483,7 +483,7 @@
     "timeDay": 0,
     "timeWeek": 726,
     "timeMonth": 690,
-    "timeYear": 659,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2025-02-04": 20
     }
@@ -1123,11 +1123,11 @@
     "url": "https://weblate.santanderauto.systems/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "sas-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "80.21%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "80.06%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "99.94%",
     "time": 705,
     "timeDay": 539,
@@ -1135,7 +1135,7 @@
     "timeMonth": 757,
     "timeYear": 727,
     "dailyMinutesDown": {
-      "2025-06-12": 248,
+      "2025-06-12": 250,
       "2025-06-11": 37,
       "2025-04-09": 18,
       "2024-11-20": 17
@@ -1783,18 +1783,18 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "new-immo-group-weblate",
     "status": "down",
-    "uptime": "8.30%",
+    "uptime": "8.20%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.30%",
-    "uptimeMonth": "8.30%",
-    "uptimeYear": "8.30%",
+    "uptimeWeek": "8.20%",
+    "uptimeMonth": "8.20%",
+    "uptimeYear": "8.20%",
     "time": 792,
     "timeDay": 0,
     "timeWeek": 792,
     "timeMonth": 792,
     "timeYear": 792,
     "dailyMinutesDown": {
-      "2025-06-12": 403,
+      "2025-06-12": 452,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 280
