@@ -1,7 +1,7 @@
-url: https://weblate-saas.shared-services-prod.new-immo-group.cloud/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-10T23:18:08.886Z
+url: https://weblate.new-immo-group.cloud/
+status: up
+code: 200
+responseTime: 706
+lastUpdated: 2025-06-12T12:38:16.123Z
 startTime: 2025-06-09T13:56:57.122Z
 generator: Upptime <https://github.com/upptime/upptime>
