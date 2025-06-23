@@ -50,9 +50,6 @@ sites:
   - name: Mattermost Weblate
     url: https://translate.mattermost.com/
     icon: https://s.weblate.org/cdn/logo-32.png
-  - name: Bon Weblate
-    url: https://bon.weblate.cloud/
-    icon: https://s.weblate.org/cdn/logo-32.png
   - name: UL Weblate
     url: https://ul.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
@@ -77,9 +74,6 @@ sites:
   - name: Shayp Weblate
     url: https://weblate.shayp.io/
     icon: https://s.weblate.org/cdn/logo-32.png
-  - name: Oxfam Weblate
-    url: https://oxfam.weblate.cloud/
-    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Universal Music Weblate
     url: https://umusic.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
@@ -91,9 +85,6 @@ sites:
     icon: https://s.weblate.org/cdn/logo-32.png
   - name: MetaBrainz Weblate
     url: https://translations.metabrainz.org/
-    icon: https://s.weblate.org/cdn/logo-32.png
-  - name: DGUV Weblate
-    url: https://weblate.dguv.de/
     icon: https://s.weblate.org/cdn/logo-32.png
   - name: Pascom Weblate
     url: https://translate.pascom.net/
@@ -128,14 +119,8 @@ sites:
   - name: Papirfly Weblate
     url: https://papirfly.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
-  - name: Viking Weblate
-    url: https://viking.weblate.cloud/
-    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Syncron Weblate
     url: https://syncron.weblate.cloud/
-    icon: https://s.weblate.org/cdn/logo-32.png
-  - name: VUTG Weblate
-    url: https://weblate.vutg.be/
     icon: https://s.weblate.org/cdn/logo-32.png
   - name: AUVESY Weblate
     url: https://weblate.auvesy-mdt.com/
@@ -164,12 +149,6 @@ sites:
     icon: https://s.weblate.org/cdn/logo-32.png
   - name: MoJ Weblate
     url: https://moj.weblate.cloud/
-    icon: https://s.weblate.org/cdn/logo-32.png
-  - name: UN EP Weblate
-    url: https://unep.weblate.cloud/
-    icon: https://s.weblate.org/cdn/logo-32.png
-  - name: Daimler Weblate
-    url: https://daimler.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
   - name: AlphaPet Weblate
     url: https://alphapet.weblate.cloud/
