@@ -98,9 +98,6 @@ sites:
   - name: Salling Weblate
     url: https://salling.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
-  - name: Oculavis Weblate
-    url: https://weblate.oculavis.de/
-    icon: https://s.weblate.org/cdn/logo-32.png
   - name: GetMomo Weblate
     url: https://weblate.getmomo.net/
     icon: https://s.weblate.org/cdn/logo-32.png
