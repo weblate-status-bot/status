@@ -225,6 +225,9 @@ sites:
   - name: REMIRA Weblate
     url: https://translation.remira.com/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Sendmarc Weblate
+    url: https://translate.sendmarc.com/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
