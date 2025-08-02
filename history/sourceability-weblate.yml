@@ -1,7 +1,7 @@
 url: https://sourceability.weblate.cloud/
-status: up
-code: 200
-responseTime: 553
-lastUpdated: 2025-08-01T23:19:13.357Z
+status: down
+code: 502
+responseTime: 475
+lastUpdated: 2025-08-02T04:57:21.761Z
 startTime: 2021-02-03T12:20:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
