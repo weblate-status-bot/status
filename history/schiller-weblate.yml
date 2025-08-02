@@ -1,7 +1,7 @@
 url: https://translate.schiller.fr/
-status: up
-code: 200
-responseTime: 1064
-lastUpdated: 2025-08-01T23:19:27.941Z
+status: down
+code: 502
+responseTime: 897
+lastUpdated: 2025-08-02T04:57:58.765Z
 startTime: 2022-08-22T11:40:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
