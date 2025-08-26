@@ -1,7 +1,7 @@
 url: https://weblate.virtualminds.com/
-status: up
-code: 200
-responseTime: 639
-lastUpdated: 2025-08-25T23:17:36.006Z
+status: down
+code: 502
+responseTime: 357
+lastUpdated: 2025-08-26T05:56:48.895Z
 startTime: 2025-03-20T10:54:37.499Z
 generator: Upptime <https://github.com/upptime/upptime>
