@@ -1,7 +1,7 @@
 url: https://bit.weblate.cloud/
-status: up
-code: 200
-responseTime: 516
-lastUpdated: 2025-08-25T23:17:25.040Z
+status: down
+code: 502
+responseTime: 315
+lastUpdated: 2025-08-26T05:56:25.871Z
 startTime: 2024-07-02T11:18:19.952Z
 generator: Upptime <https://github.com/upptime/upptime>
