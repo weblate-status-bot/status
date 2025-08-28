@@ -99,19 +99,19 @@
     "url": "https://weblate-cdn.com/a5ba5dc29f39498aa734528a54b50d0a/weblate.js",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "weblate-cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 596,
-    "timeWeek": 982,
-    "timeMonth": 433,
+    "time": 269,
+    "timeDay": 349,
+    "timeWeek": 872,
+    "timeMonth": 423,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-08-28": 1
+      "2025-08-28": 15
     }
   },
   {
