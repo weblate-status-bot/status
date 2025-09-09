@@ -228,6 +228,12 @@ sites:
   - name: Sendmarc Weblate
     url: https://translate.sendmarc.com/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Second Dinner Weblate
+    url: https://seconddinner.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Ocuco Weblate
+    url: https://ocuco.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
