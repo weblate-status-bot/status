@@ -296,20 +296,17 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "solocoo-weblate",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 782,
     "timeDay": 860,
     "timeWeek": 845,
     "timeMonth": 854,
     "timeYear": 802,
-    "dailyMinutesDown": {
-      "2024-11-11": 30,
-      "2024-11-02": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lime Weblate",
@@ -511,21 +508,17 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "snomed-weblate",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 826,
     "timeDay": 728,
     "timeWeek": 826,
     "timeMonth": 871,
     "timeYear": 851,
-    "dailyMinutesDown": {
-      "2025-08-02": 35,
-      "2024-11-12": 23,
-      "2024-11-11": 42
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shayp Weblate",
@@ -836,17 +829,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 634,
     "timeDay": 717,
     "timeWeek": 683,
     "timeMonth": 675,
     "timeYear": 663,
-    "dailyMinutesDown": {
-      "2025-08-02": 36,
-      "2025-04-09": 18,
-      "2024-11-02": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Syncron Weblate",
@@ -1496,11 +1485,11 @@
     "url": "https://tke.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "tke-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.89%",
     "time": 682,
     "timeDay": 806,
@@ -1508,6 +1497,7 @@
     "timeMonth": 686,
     "timeYear": 682,
     "dailyMinutesDown": {
+      "2025-09-17": 5,
       "2025-09-16": 16,
       "2025-08-26": 44,
       "2025-08-02": 36,
