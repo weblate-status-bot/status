@@ -405,18 +405,19 @@
     "url": "https://medvice.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "medvice-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 661,
+    "time": 662,
     "timeDay": 862,
     "timeWeek": 759,
     "timeMonth": 678,
     "timeYear": 682,
     "dailyMinutesDown": {
+      "2025-10-14": 2,
       "2025-08-02": 35
     }
   },
@@ -534,10 +535,10 @@
     "url": "https://weblate.shayp.io/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "shayp-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 896,
@@ -546,6 +547,7 @@
     "timeMonth": 909,
     "timeYear": 928,
     "dailyMinutesDown": {
+      "2025-10-14": 2,
       "2025-08-02": 35,
       "2025-04-09": 18
     }
@@ -699,10 +701,10 @@
     "url": "https://t-hive.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "ls-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 683,
@@ -711,6 +713,7 @@
     "timeMonth": 674,
     "timeYear": 696,
     "dailyMinutesDown": {
+      "2025-10-14": 2,
       "2025-08-02": 36,
       "2025-04-09": 18
     }
