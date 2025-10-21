@@ -1,7 +1,7 @@
 url: https://medvice.weblate.cloud/
-status: up
-code: 200
-responseTime: 561
-lastUpdated: 2025-10-20T23:15:44.110Z
+status: down
+code: 502
+responseTime: 318
+lastUpdated: 2025-10-21T07:41:01.286Z
 startTime: 2021-02-03T12:12:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
