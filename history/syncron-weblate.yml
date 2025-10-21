@@ -1,7 +1,7 @@
 url: https://syncron.weblate.cloud/
-status: up
-code: 200
-responseTime: 524
-lastUpdated: 2025-10-20T23:16:00.727Z
+status: down
+code: 502
+responseTime: 465
+lastUpdated: 2025-10-21T07:25:29.837Z
 startTime: 2023-01-30T10:43:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
