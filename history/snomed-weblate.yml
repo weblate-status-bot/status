@@ -1,7 +1,7 @@
 url: https://translate.snomedtools.org/
-status: down
-code: 502
-responseTime: 398
-lastUpdated: 2025-10-21T07:41:12.261Z
+status: up
+code: 200
+responseTime: 1055
+lastUpdated: 2025-10-21T07:54:36.264Z
 startTime: 2021-05-26T16:41:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
