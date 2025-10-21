@@ -1,7 +1,7 @@
 url: https://webit.weblate.cloud/
-status: up
-code: 200
-responseTime: 595
-lastUpdated: 2025-10-20T23:15:58.242Z
+status: down
+code: 502
+responseTime: 367
+lastUpdated: 2025-10-21T07:41:38.146Z
 startTime: 2022-07-26T09:32:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
