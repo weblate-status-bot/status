@@ -1,7 +1,7 @@
 url: https://translate.mattermost.com/
-status: down
-code: 502
-responseTime: 407
-lastUpdated: 2025-10-21T07:40:56.386Z
+status: up
+code: 200
+responseTime: 752
+lastUpdated: 2025-10-21T07:54:26.375Z
 startTime: 2021-02-03T12:12:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
