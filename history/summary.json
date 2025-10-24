@@ -477,10 +477,10 @@
     "url": "https://profil-klett.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "profil-klett-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 670,
@@ -489,6 +489,7 @@
     "timeMonth": 682,
     "timeYear": 692,
     "dailyMinutesDown": {
+      "2025-10-24": 2,
       "2025-02-04": 20
     }
   },
