@@ -1,7 +1,7 @@
 url: https://salling.weblate.cloud/
-status: up
-code: 200
-responseTime: 850
-lastUpdated: 2025-11-01T23:15:55.724Z
+status: down
+code: 502
+responseTime: 317
+lastUpdated: 2025-11-02T13:25:47.131Z
 startTime: 2022-04-26T19:20:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
