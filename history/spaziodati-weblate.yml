@@ -1,7 +1,7 @@
 url: https://spaziodati.weblate.cloud/
-status: up
-code: 200
-responseTime: 850
-lastUpdated: 2025-11-01T23:16:01.443Z
+status: down
+code: 502
+responseTime: 324
+lastUpdated: 2025-11-02T13:25:51.980Z
 startTime: 2022-10-17T10:43:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
