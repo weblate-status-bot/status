@@ -234,6 +234,9 @@ sites:
   - name: Ocuco Weblate
     url: https://ocuco.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: XCNT Weblate
+    url: https://xcnt.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
