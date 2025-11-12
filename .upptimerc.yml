@@ -237,6 +237,9 @@ sites:
   - name: XCNT Weblate
     url: https://xcnt.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Pressbooks Weblate
+    url: https://translate.pressbooks.org/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
