@@ -13,7 +13,7 @@
     "time": 1081,
     "timeDay": 702,
     "timeWeek": 866,
-    "timeMonth": 1138,
+    "timeMonth": 1142,
     "timeYear": 1156,
     "dailyMinutesDown": {
       "2025-10-20": 297,
@@ -128,7 +128,7 @@
     "time": 839,
     "timeDay": 577,
     "timeWeek": 558,
-    "timeMonth": 552,
+    "timeMonth": 551,
     "timeYear": 901,
     "dailyMinutesDown": {
       "2025-10-08": 12,
@@ -551,10 +551,10 @@
     "url": "https://umusic.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "universal-music-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 706,
@@ -563,6 +563,7 @@
     "timeMonth": 697,
     "timeYear": 708,
     "dailyMinutesDown": {
+      "2025-12-01": 2,
       "2025-08-02": 35,
       "2025-04-09": 18,
       "2025-04-08": 46
@@ -1445,7 +1446,7 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.09%",
+    "uptimeWeek": "99.34%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.90%",
     "time": 905,
