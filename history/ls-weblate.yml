@@ -1,7 +1,7 @@
 url: https://t-hive.weblate.cloud/
-status: up
-code: 200
-responseTime: 541
-lastUpdated: 2025-12-01T23:18:42.962Z
+status: down
+code: 502
+responseTime: 394
+lastUpdated: 2025-12-02T18:45:02.548Z
 startTime: 2022-04-20T08:00:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
