@@ -1,7 +1,7 @@
 url: https://openstack.weblate.cloud/
-status: up
-code: 200
-responseTime: 570
-lastUpdated: 2025-12-01T23:18:50.089Z
+status: down
+code: 502
+responseTime: 398
+lastUpdated: 2025-12-02T18:45:17.444Z
 startTime: 2023-03-16T08:36:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
