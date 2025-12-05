@@ -63,19 +63,19 @@
     "url": "https://docs.weblate.org",
     "icon": "https://icons.duckduckgo.com/ip3/docs.weblate.org.ico",
     "slug": "weblate-documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 359,
-    "timeDay": 359,
-    "timeWeek": 374,
-    "timeMonth": 350,
+    "timeDay": 337,
+    "timeWeek": 364,
+    "timeMonth": 348,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2025-12-05": 1
+      "2025-12-05": 33
     }
   },
   {
