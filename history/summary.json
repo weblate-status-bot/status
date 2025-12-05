@@ -382,7 +382,7 @@
     "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.72%",
+    "uptimeWeek": "98.46%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.88%",
     "time": 1122,
@@ -1752,19 +1752,19 @@
     "url": "https://translate.pressbooks.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "pressbooks-weblate",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 856,
-    "timeDay": 777,
-    "timeWeek": 783,
-    "timeMonth": 856,
-    "timeYear": 856,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "91.15%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 852,
+    "timeDay": 768,
+    "timeWeek": 780,
+    "timeMonth": 852,
+    "timeYear": 852,
     "dailyMinutesDown": {
-      "2025-12-05": 44
+      "2025-12-05": 127
     }
   }
 ]
