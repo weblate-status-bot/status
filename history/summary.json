@@ -13,7 +13,7 @@
     "time": 1081,
     "timeDay": 826,
     "timeWeek": 782,
-    "timeMonth": 1104,
+    "timeMonth": 854,
     "timeYear": 1153,
     "dailyMinutesDown": {
       "2025-12-01": 49,
@@ -626,12 +626,12 @@
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.51%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.80%",
     "time": 923,
     "timeDay": 886,
     "timeWeek": 851,
-    "timeMonth": 1164,
+    "timeMonth": 1171,
     "timeYear": 948,
     "dailyMinutesDown": {
       "2025-11-20": 131,
@@ -897,7 +897,7 @@
     "timeDay": 729,
     "timeWeek": 700,
     "timeMonth": 746,
-    "timeYear": 784,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2025-08-26": 44,
       "2025-04-01": 19,
@@ -1752,17 +1752,19 @@
     "url": "https://translate.pressbooks.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "pressbooks-weblate",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 859,
     "timeDay": 765,
     "timeWeek": 783,
     "timeMonth": 859,
     "timeYear": 859,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-05": 4
+    }
   }
 ]
