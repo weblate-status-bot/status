@@ -113,9 +113,9 @@ sites:
   - name: Spaziodati Weblate
     url: https://spaziodati.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
-#  - name: Papirfly Weblate
-#    url: https://papirfly.weblate.cloud/
-#    icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Papirfly Weblate
+    url: https://papirfly.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: Syncron Weblate
     url: https://syncron.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
@@ -135,9 +135,9 @@ sites:
   - name: Qosenergy Weblate
     url: https://weblate.qosenergy.it/
     icon: https://s.weblate.org/cdn/logo-32.png
-#  - name: SAS Weblate
-#    url: https://weblate.santanderauto.systems/
-#    icon: https://s.weblate.org/cdn/logo-32.png
+  - name: SAS Weblate
+    url: https://weblate.santanderauto.systems/
+    icon: https://s.weblate.org/cdn/logo-32.png
   - name: AIDU Weblate
     url: https://aidu.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
@@ -239,6 +239,9 @@ sites:
     icon: https://s.weblate.org/cdn/logo-32.png
   - name: Pressbooks Weblate
     url: https://translate.pressbooks.org/
+    icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Localization Lab Weblate
+    url: https://localizationlab.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
 
 
