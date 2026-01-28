@@ -244,6 +244,9 @@ sites:
   - name: Localization Lab Weblate
     url: https://localizationlab.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Cerivo Weblate
+    url: https://cerivo.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
