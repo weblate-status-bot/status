@@ -320,7 +320,7 @@
     "slug": "solocoo-weblate",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "94.50%",
+    "uptimeDay": "96.22%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
@@ -1733,11 +1733,11 @@
     "url": "https://translation.remira.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "remira-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 770,
     "timeDay": 993,
@@ -1745,6 +1745,7 @@
     "timeMonth": 784,
     "timeYear": 770,
     "dailyMinutesDown": {
+      "2026-02-11": 4,
       "2025-07-23": 35,
       "2025-06-09": 3
     }
