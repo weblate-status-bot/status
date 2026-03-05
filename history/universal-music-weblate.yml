@@ -1,7 +1,7 @@
 url: https://umusic.weblate.cloud/
-status: up
-code: 200
-responseTime: 863
-lastUpdated: 2026-03-04T23:29:26.838Z
+status: down
+code: 502
+responseTime: 527
+lastUpdated: 2026-03-05T08:03:01.771Z
 startTime: 2021-11-13T08:38:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
