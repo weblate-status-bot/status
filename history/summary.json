@@ -360,7 +360,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.70%",
     "time": 806,
     "timeDay": 801,
     "timeWeek": 707,
@@ -388,8 +388,7 @@
       "2025-03-25": 16,
       "2025-03-22": 38,
       "2025-03-17": 24,
-      "2025-03-15": 22,
-      "2025-03-09": 54
+      "2025-03-15": 22
     }
   },
   {
@@ -1723,7 +1722,7 @@
     "slug": "remira-weblate",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "76.20%",
+    "uptimeDay": "81.06%",
     "uptimeWeek": "87.77%",
     "uptimeMonth": "96.04%",
     "uptimeYear": "99.55%",
