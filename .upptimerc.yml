@@ -247,6 +247,9 @@ sites:
   - name: Cerivo Weblate
     url: https://cerivo.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: Civitech Weblate
+    url: https://civitech.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 
 status-website:
