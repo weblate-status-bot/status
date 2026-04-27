@@ -256,6 +256,9 @@ sites:
   - name: Shapr3D Weblate
     url: https://shapr3d.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: INTERcept Weblate
+    url: https://intercept.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
