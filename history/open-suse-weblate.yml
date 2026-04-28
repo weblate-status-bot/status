@@ -1,7 +1,7 @@
 url: https://l10n.opensuse.org/
-status: up
-code: 200
-responseTime: 1036
-lastUpdated: 2026-04-27T23:54:33.271Z
+status: down
+code: 502
+responseTime: 508
+lastUpdated: 2026-04-28T13:02:14.200Z
 startTime: 2024-05-14T11:26:25.467Z
 generator: Upptime <https://github.com/upptime/upptime>
