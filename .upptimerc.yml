@@ -259,6 +259,9 @@ sites:
   - name: BRITA Weblate
     url: https://britagroup.weblate.cloud/manage/users/
     icon: https://s.weblate.org/cdn/logo-32.png
+  - name: WorkshopReport Weblate
+    url: https://workshopreport.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
