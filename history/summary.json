@@ -812,20 +812,20 @@
     "url": "https://spaziodati.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "spaziodati-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 695,
-    "timeDay": 1074,
-    "timeWeek": 946,
-    "timeMonth": 894,
-    "timeYear": 702,
+    "time": 696,
+    "timeDay": 1080,
+    "timeWeek": 964,
+    "timeMonth": 900,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2025-08-02": 36,
-      "2026-06-22": 7
+      "2026-06-22": 10
     }
   },
   {
@@ -1943,23 +1943,23 @@
     "url": "https://workshopreport.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "workshop-report-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "98.48%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "98.58%",
-    "time": 889,
-    "timeDay": 1086,
-    "timeWeek": 979,
-    "timeMonth": 907,
-    "timeYear": 889,
+    "time": 894,
+    "timeDay": 1092,
+    "timeWeek": 994,
+    "timeMonth": 913,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2026-05-14": 70,
       "2026-05-20": 85,
       "2026-05-23": 334,
       "2026-05-24": 330,
-      "2026-06-22": 4
+      "2026-06-22": 6
     }
   }
 ]
