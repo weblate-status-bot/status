@@ -942,15 +942,15 @@
     "url": "https://buildinglink.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "building-link-weblate",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "98.74%",
-    "time": 857,
-    "timeDay": 1105,
-    "timeWeek": 963,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "88.13%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "98.71%",
+    "time": 858,
+    "timeDay": 1116,
+    "timeWeek": 983,
     "timeMonth": 1136,
     "timeYear": 903,
     "dailyMinutesDown": {
@@ -997,7 +997,7 @@
       "2026-06-13": 69,
       "2026-06-15": 170,
       "2026-06-14": 5,
-      "2026-06-25": 3
+      "2026-06-25": 171
     }
   },
   {
@@ -1341,11 +1341,11 @@
     "url": "https://translation.group.cab/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "click-and-boat-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.75%",
     "time": 1000,
     "timeDay": 1246,
@@ -1373,7 +1373,8 @@
       "2026-03-16": 75,
       "2026-03-19": 205,
       "2026-03-20": 42,
-      "2026-04-19": 42
+      "2026-04-19": 42,
+      "2026-06-25": 4
     }
   },
   {
@@ -1841,11 +1842,11 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "civitech-weblate",
     "status": "up",
-    "uptime": "92.31%",
+    "uptime": "92.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.31%",
+    "uptimeYear": "92.32%",
     "time": 783,
     "timeDay": 1110,
     "timeWeek": 951,
