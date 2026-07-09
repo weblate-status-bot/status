@@ -943,9 +943,9 @@
     "slug": "building-link-weblate",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "95.52%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "97.77%",
+    "uptimeDay": "95.30%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "97.76%",
     "uptimeYear": "98.64%",
     "time": 837,
     "timeDay": 920,
@@ -1001,7 +1001,7 @@
       "2026-07-01": 94,
       "2026-07-03": 147,
       "2026-07-08": 62,
-      "2026-07-09": 2
+      "2026-07-09": 6
     }
   },
   {
