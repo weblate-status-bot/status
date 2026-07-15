@@ -940,17 +940,17 @@
     "url": "https://buildinglink.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "building-link-weblate",
-    "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "73.44%",
-    "uptimeWeek": "90.17%",
-    "uptimeMonth": "96.64%",
-    "uptimeYear": "98.46%",
-    "time": 844,
-    "timeDay": 924,
-    "timeWeek": 875,
-    "timeMonth": 923,
-    "timeYear": 919,
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "68.21%",
+    "uptimeWeek": "89.42%",
+    "uptimeMonth": "96.46%",
+    "uptimeYear": "98.45%",
+    "time": 845,
+    "timeDay": 962,
+    "timeWeek": 890,
+    "timeMonth": 928,
+    "timeYear": 920,
     "dailyMinutesDown": {
       "2025-08-26": 44,
       "2025-11-25": 28,
@@ -1004,7 +1004,7 @@
       "2026-07-10": 193,
       "2026-07-12": 99,
       "2026-07-14": 50,
-      "2026-07-15": 333
+      "2026-07-15": 408
     }
   },
   {
