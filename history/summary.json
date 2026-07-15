@@ -940,10 +940,10 @@
     "url": "https://buildinglink.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "building-link-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "73.65%",
-    "uptimeWeek": "90.20%",
+    "uptimeDay": "73.44%",
+    "uptimeWeek": "90.17%",
     "uptimeMonth": "96.64%",
     "uptimeYear": "98.46%",
     "time": 844,
@@ -1004,7 +1004,7 @@
       "2026-07-10": 193,
       "2026-07-12": 99,
       "2026-07-14": 50,
-      "2026-07-15": 330
+      "2026-07-15": 333
     }
   },
   {
@@ -1849,11 +1849,11 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "civitech-weblate",
     "status": "up",
-    "uptime": "93.87%",
+    "uptime": "93.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.87%",
+    "uptimeYear": "93.88%",
     "time": 802,
     "timeDay": 1087,
     "timeWeek": 811,
