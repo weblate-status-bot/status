@@ -1410,21 +1410,21 @@
     "url": "https://weblate.mb.int.momox.biz/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "momox-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 845,
-    "timeDay": 773,
-    "timeWeek": 1069,
-    "timeMonth": 1022,
-    "timeYear": 857,
+    "time": 847,
+    "timeDay": 944,
+    "timeWeek": 1093,
+    "timeMonth": 1030,
+    "timeYear": 858,
     "dailyMinutesDown": {
       "2025-10-21": 16,
       "2026-03-03": 31,
-      "2026-07-29": 3
+      "2026-07-29": 6
     }
   },
   {
