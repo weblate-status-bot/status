@@ -667,20 +667,20 @@
     "url": "https://translations.artefactual.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "artefactual-s-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
-    "time": 815,
-    "timeDay": 1190,
-    "timeWeek": 1074,
+    "uptimeDay": "92.90%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.97%",
+    "time": 816,
+    "timeDay": 1118,
+    "timeWeek": 1070,
     "timeMonth": 1051,
-    "timeYear": 835,
+    "timeYear": 836,
     "dailyMinutesDown": {
       "2026-01-04": 82,
-      "2026-08-04": 2
+      "2026-08-04": 102
     }
   },
   {
