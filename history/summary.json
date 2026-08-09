@@ -167,17 +167,17 @@
     "url": "https://translate.fedoraproject.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "fedora-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
-    "time": 1274,
-    "timeDay": 897,
-    "timeWeek": 1098,
-    "timeMonth": 1007,
-    "timeYear": 1372,
+    "uptimeDay": "96.90%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.84%",
+    "time": 1275,
+    "timeDay": 940,
+    "timeWeek": 1084,
+    "timeMonth": 1006,
+    "timeYear": 1371,
     "dailyMinutesDown": {
       "2025-10-17": 20,
       "2025-11-03": 28,
@@ -190,7 +190,7 @@
       "2026-04-27": 4,
       "2026-06-23": 145,
       "2026-06-25": 36,
-      "2026-08-09": 2
+      "2026-08-09": 45
     }
   },
   {
