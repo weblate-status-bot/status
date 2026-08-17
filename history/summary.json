@@ -669,7 +669,7 @@
     "slug": "artefactual-s-weblate",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "95.75%",
+    "uptimeDay": "97.34%",
     "uptimeWeek": "98.18%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.93%",
@@ -1369,20 +1369,20 @@
     "url": "https://bmat.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "bmat-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 725,
-    "timeDay": 907,
-    "timeWeek": 941,
-    "timeMonth": 975,
+    "timeDay": 823,
+    "timeWeek": 918,
+    "timeMonth": 967,
     "timeYear": 747,
     "dailyMinutesDown": {
       "2025-10-21": 16,
-      "2026-08-17": 3
+      "2026-08-17": 23
     }
   },
   {
