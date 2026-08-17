@@ -1957,19 +1957,19 @@
     "url": "https://da.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "directadmin-weblate",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 953,
-    "timeDay": 666,
-    "timeWeek": 885,
-    "timeMonth": 953,
-    "timeYear": 953,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "95.90%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 958,
+    "timeDay": 802,
+    "timeWeek": 904,
+    "timeMonth": 958,
+    "timeYear": 958,
     "dailyMinutesDown": {
-      "2026-08-17": 5
+      "2026-08-17": 59
     }
   },
   {
