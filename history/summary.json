@@ -1263,21 +1263,21 @@
     "url": "https://isagri.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "isagri-weblate",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.97%",
     "time": 719,
-    "timeDay": 921,
-    "timeWeek": 948,
-    "timeMonth": 981,
+    "timeDay": 969,
+    "timeWeek": 956,
+    "timeMonth": 982,
     "timeYear": 738,
     "dailyMinutesDown": {
       "2025-08-26": 44,
       "2025-10-21": 16,
-      "2026-08-17": 2
+      "2026-08-17": 85
     }
   },
   {
