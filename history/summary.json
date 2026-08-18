@@ -772,22 +772,22 @@
     "url": "https://translate.schiller.fr/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "schiller-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.94%",
-    "time": 1176,
-    "timeDay": 2191,
-    "timeWeek": 1387,
-    "timeMonth": 1353,
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.93%",
+    "time": 1173,
+    "timeDay": 1705,
+    "timeWeek": 1368,
+    "timeMonth": 1349,
     "timeYear": 1215,
     "dailyMinutesDown": {
       "2025-12-01": 142,
       "2026-01-30": 149,
       "2026-08-12": 45,
-      "2026-08-18": 2
+      "2026-08-18": 22
     }
   },
   {
