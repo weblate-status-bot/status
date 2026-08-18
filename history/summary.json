@@ -1535,11 +1535,11 @@
     "url": "https://weblate.virtualminds.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "virtual-minds-weblate",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "89.91%",
-    "uptimeWeek": "96.86%",
-    "uptimeMonth": "99.28%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "89.67%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "99.82%",
     "time": 818,
     "timeDay": 1192,
@@ -1555,7 +1555,7 @@
       "2026-02-10": 81,
       "2026-05-13": 238,
       "2026-08-17": 171,
-      "2026-08-18": 145
+      "2026-08-18": 149
     }
   },
   {
