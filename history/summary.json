@@ -1055,20 +1055,20 @@
     "url": "https://moj.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "mo-j-weblate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 725,
-    "timeDay": 1192,
-    "timeWeek": 992,
-    "timeMonth": 987,
-    "timeYear": 747,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
+    "time": 726,
+    "timeDay": 1021,
+    "timeWeek": 975,
+    "timeMonth": 982,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2025-08-26": 44,
-      "2026-08-18": 8
+      "2026-08-18": 41
     }
   },
   {
@@ -1941,11 +1941,11 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "workshop-report-weblate",
     "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.30%",
+    "uptime": "99.27%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.27%",
     "time": 960,
     "timeDay": 1204,
     "timeWeek": 1021,
@@ -1957,7 +1957,7 @@
       "2026-05-23": 334,
       "2026-05-24": 330,
       "2026-08-10": 164,
-      "2026-08-18": 4
+      "2026-08-18": 45
     }
   },
   {
