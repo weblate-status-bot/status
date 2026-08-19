@@ -1561,21 +1561,21 @@
     "url": "https://zenith-watches.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "zenith-watches-weblate",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
-    "time": 754,
-    "timeDay": 966,
-    "timeWeek": 1065,
-    "timeMonth": 1053,
-    "timeYear": 777,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "94.90%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.97%",
+    "time": 767,
+    "timeDay": 4085,
+    "timeWeek": 1832,
+    "timeMonth": 1246,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2025-08-26": 44,
       "2026-02-25": 47,
-      "2026-08-19": 3
+      "2026-08-19": 73
     }
   },
   {
