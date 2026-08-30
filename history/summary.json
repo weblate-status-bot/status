@@ -656,16 +656,16 @@
     "url": "https://translations.artefactual.com/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "artefactual-s-weblate",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.92%",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "84.42%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "99.88%",
     "time": 838,
-    "timeDay": 1023,
-    "timeWeek": 1119,
-    "timeMonth": 1076,
+    "timeDay": 1035,
+    "timeWeek": 1110,
+    "timeMonth": 1075,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2026-01-04": 82,
@@ -673,7 +673,7 @@
       "2026-08-15": 116,
       "2026-08-16": 68,
       "2026-08-18": 55,
-      "2026-08-30": 2
+      "2026-08-30": 224
     }
   },
   {
@@ -1902,11 +1902,11 @@
     "url": "https://workshopreport.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "workshop-report-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "99.33%",
     "time": 1029,
     "timeDay": 943,
@@ -1919,7 +1919,8 @@
       "2026-05-23": 334,
       "2026-05-24": 330,
       "2026-08-10": 164,
-      "2026-08-18": 68
+      "2026-08-18": 68,
+      "2026-08-30": 4
     }
   },
   {
@@ -1930,12 +1931,12 @@
     "status": "up",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.52%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.72%",
     "time": 1115,
     "timeDay": 1379,
-    "timeWeek": 1463,
+    "timeWeek": 1504,
     "timeMonth": 1127,
     "timeYear": 1115,
     "dailyMinutesDown": {
