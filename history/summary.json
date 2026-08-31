@@ -1237,22 +1237,22 @@
     "url": "https://isagri.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "isagri-weblate",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "82.84%",
+    "uptimeWeek": "96.60%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.92%",
     "time": 728,
-    "timeDay": 0,
-    "timeWeek": 1004,
-    "timeMonth": 967,
+    "timeDay": 774,
+    "timeWeek": 971,
+    "timeMonth": 961,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2025-10-21": 16,
       "2026-08-17": 85,
       "2026-08-29": 96,
-      "2026-08-31": 35
+      "2026-08-31": 247
     }
   },
   {
