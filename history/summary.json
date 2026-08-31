@@ -1239,9 +1239,9 @@
     "slug": "isagri-weblate",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.57%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.96%",
     "time": 728,
     "timeDay": 0,
@@ -1252,7 +1252,7 @@
       "2025-10-21": 16,
       "2026-08-17": 85,
       "2026-08-29": 96,
-      "2026-08-31": 7
+      "2026-08-31": 35
     }
   },
   {
@@ -1797,11 +1797,11 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "civitech-weblate",
     "status": "up",
-    "uptime": "95.80%",
+    "uptime": "95.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.80%",
+    "uptimeYear": "95.81%",
     "time": 849,
     "timeDay": 1147,
     "timeWeek": 1019,
