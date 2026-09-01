@@ -803,10 +803,10 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "papirfly-weblate",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
+    "uptime": "99.71%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 1302,
     "timeDay": 0,
@@ -816,7 +816,7 @@
     "dailyMinutesDown": {
       "2025-09-10": 1,
       "2026-08-14": 53,
-      "2026-09-01": 16
+      "2026-09-01": 37
     }
   },
   {
@@ -910,7 +910,7 @@
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.64%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "98.33%",
     "time": 882,
     "timeDay": 850,
@@ -1237,23 +1237,23 @@
     "url": "https://isagri.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "isagri-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "85.61%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "86.26%",
+    "uptimeWeek": "96.37%",
+    "uptimeMonth": "98.97%",
     "uptimeYear": "99.91%",
-    "time": 729,
-    "timeDay": 774,
-    "timeWeek": 989,
-    "timeMonth": 963,
-    "timeYear": 751,
+    "time": 762,
+    "timeDay": 8939,
+    "timeWeek": 3291,
+    "timeMonth": 1452,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2025-10-21": 16,
       "2026-08-17": 85,
       "2026-08-29": 96,
       "2026-08-31": 247,
-      "2026-09-01": 12
+      "2026-09-01": 23
     }
   },
   {
@@ -1432,11 +1432,11 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "tke-weblate",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.62%",
+    "uptime": "99.71%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.61%",
     "time": 750,
     "timeDay": 0,
     "timeWeek": 1070,
@@ -1456,7 +1456,7 @@
       "2026-05-23": 75,
       "2026-05-27": 77,
       "2026-07-23": 316,
-      "2026-09-01": 3
+      "2026-09-01": 25
     }
   },
   {
