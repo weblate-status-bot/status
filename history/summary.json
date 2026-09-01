@@ -195,10 +195,10 @@
     "slug": "kodi-weblate",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.94%",
+    "uptimeDay": "92.80%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.93%",
     "time": 1058,
     "timeDay": 634,
     "timeWeek": 942,
@@ -211,7 +211,7 @@
       "2025-12-20": 63,
       "2025-12-19": 9,
       "2026-03-31": 76,
-      "2026-09-01": 24
+      "2026-09-01": 104
     }
   },
   {
@@ -431,19 +431,19 @@
     "url": "https://sourceability.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "sourceability-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
-    "time": 752,
-    "timeDay": 900,
-    "timeWeek": 1036,
-    "timeMonth": 993,
+    "uptimeDay": "93.67%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.98%",
+    "time": 753,
+    "timeDay": 914,
+    "timeWeek": 1023,
+    "timeMonth": 991,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2026-09-01": 14
+      "2026-09-01": 91
     }
   },
   {
@@ -532,20 +532,20 @@
     "url": "https://weblate.shayp.io/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "shayp-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.98%",
     "time": 971,
-    "timeDay": 980,
-    "timeWeek": 1252,
-    "timeMonth": 1233,
-    "timeYear": 980,
+    "timeDay": 1027,
+    "timeWeek": 1230,
+    "timeMonth": 1228,
+    "timeYear": 981,
     "dailyMinutesDown": {
       "2025-10-14": 34,
-      "2026-09-01": 7
+      "2026-09-01": 85
     }
   },
   {
@@ -708,19 +708,19 @@
     "url": "https://salling.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "salling-weblate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 899,
-    "timeWeek": 1035,
-    "timeMonth": 986,
-    "timeYear": 773,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "94.44%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.98%",
+    "time": 751,
+    "timeDay": 918,
+    "timeWeek": 1023,
+    "timeMonth": 984,
+    "timeYear": 774,
     "dailyMinutesDown": {
-      "2026-09-01": 3
+      "2026-09-01": 80
     }
   },
   {
