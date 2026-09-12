@@ -677,16 +677,16 @@
     "url": "https://t-hive.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "ls-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.91%",
+    "uptimeDay": "90.19%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.88%",
     "time": 772,
-    "timeDay": 1370,
-    "timeWeek": 1020,
-    "timeMonth": 1020,
+    "timeDay": 1069,
+    "timeWeek": 989,
+    "timeMonth": 1013,
     "timeYear": 791,
     "dailyMinutesDown": {
       "2025-10-14": 34,
@@ -694,7 +694,7 @@
       "2026-02-24": 48,
       "2026-03-30": 240,
       "2026-04-15": 91,
-      "2026-09-12": 2
+      "2026-09-12": 141
     }
   },
   {
@@ -764,12 +764,12 @@
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.91%",
     "time": 1172,
     "timeDay": 1432,
     "timeWeek": 1340,
-    "timeMonth": 1328,
+    "timeMonth": 1327,
     "timeYear": 1225,
     "dailyMinutesDown": {
       "2025-12-01": 142,
