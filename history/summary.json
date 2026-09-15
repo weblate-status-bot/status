@@ -676,11 +676,11 @@
     "url": "https://t-hive.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "ls-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.88%",
     "time": 774,
     "timeDay": 973,
@@ -693,7 +693,8 @@
       "2026-02-24": 48,
       "2026-03-30": 240,
       "2026-04-15": 91,
-      "2026-09-12": 141
+      "2026-09-12": 141,
+      "2026-09-15": 2
     }
   },
   {
@@ -1935,22 +1936,22 @@
     "url": "https://da.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "directadmin-weblate",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "95.97%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.72%",
-    "time": 1188,
-    "timeDay": 0,
-    "timeWeek": 1406,
-    "timeMonth": 1336,
-    "timeYear": 1188,
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "78.70%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "99.40%",
+    "time": 1186,
+    "timeDay": 1097,
+    "timeWeek": 1362,
+    "timeMonth": 1329,
+    "timeYear": 1186,
     "dailyMinutesDown": {
       "2026-08-17": 59,
       "2026-08-20": 47,
       "2026-08-23": 49,
-      "2026-09-15": 58
+      "2026-09-15": 307
     }
   },
   {
