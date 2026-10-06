@@ -142,9 +142,6 @@ sites:
   - name: AIDU Weblate
     url: https://aidu.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
-  - name: RDS Weblate
-    url: https://rds.weblate.cloud/
-    icon: https://s.weblate.org/cdn/logo-32.png
   - name: MoJ Weblate
     url: https://moj.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
