@@ -1427,9 +1427,9 @@
     "slug": "tke-weblate",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.61%",
     "time": 768,
     "timeDay": 999,
@@ -1449,7 +1449,7 @@
       "2026-05-27": 77,
       "2026-07-23": 316,
       "2026-09-01": 114,
-      "2026-10-06": 4
+      "2026-10-06": 8
     }
   },
   {
