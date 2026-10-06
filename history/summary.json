@@ -1425,16 +1425,16 @@
     "url": "https://tke.weblate.cloud/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "tke-weblate",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "97.49%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.60%",
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "93.82%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.59%",
     "time": 768,
-    "timeDay": 999,
-    "timeWeek": 974,
-    "timeMonth": 963,
+    "timeDay": 879,
+    "timeWeek": 950,
+    "timeMonth": 957,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2026-01-06": 54,
@@ -1449,7 +1449,7 @@
       "2026-05-27": 77,
       "2026-07-23": 316,
       "2026-09-01": 114,
-      "2026-10-06": 36
+      "2026-10-06": 89
     }
   },
   {
