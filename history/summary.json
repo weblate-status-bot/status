@@ -5,11 +5,11 @@
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "hosted-weblate",
     "status": "down",
-    "uptime": "99.77%",
+    "uptime": "99.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.42%",
-    "uptimeMonth": "95.26%",
-    "uptimeYear": "99.43%",
+    "uptimeWeek": "77.34%",
+    "uptimeMonth": "94.79%",
+    "uptimeYear": "99.39%",
     "time": 1612,
     "timeDay": 437,
     "timeWeek": 780,
@@ -23,7 +23,7 @@
       "2026-05-05": 29,
       "2026-05-28": 71,
       "2026-05-29": 178,
-      "2026-10-31": 171,
+      "2026-10-31": 380,
       "2026-10-30": 1440,
       "2026-10-29": 464
     }
@@ -1092,19 +1092,20 @@
     "url": "https://l10n.opensuse.org/",
     "icon": "https://s.weblate.org/cdn/logo-32.png",
     "slug": "open-suse-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
-    "time": 1109,
+    "time": 1108,
     "timeDay": 969,
     "timeWeek": 1069,
     "timeMonth": 1168,
     "timeYear": 1084,
     "dailyMinutesDown": {
-      "2026-04-28": 167
+      "2026-04-28": 167,
+      "2026-10-31": 3
     }
   },
   {
