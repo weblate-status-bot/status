@@ -8,22 +8,30 @@ sites:
   - name: Hosted Weblate
     url: https://hosted.weblate.org
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: &monitoring_headers
+      - "User-Agent: weblate-status-bot"
   - name: Weblate Care
     url: https://care.weblate.org
+    headers: *monitoring_headers
   - name: Weblate Documentation
     url: https://docs.weblate.org
+    headers: *monitoring_headers
   - name: Weblate website
     url: https://weblate.org/en/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Weblate CDN
     url: https://weblate-cdn.com/a5ba5dc29f39498aa734528a54b50d0a/weblate.js
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Weblate Mail Delivery
     url: https://md.weblate.org/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Weblate Mercurial server
     url: https://hg.weblate.org/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Weblate Cloud Backup Service
     check: "tcp-ping"
     url: backups.weblate.cloud
@@ -32,109 +40,144 @@ sites:
   - name: Fedora Weblate
     url: https://translate.fedoraproject.org/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Kodi Weblate
     url: https://kodi.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Dyson Weblate
     url: https://dyson.weblate.org/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: EURid Weblate
     url: https://weblate.eurid.eu/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: EURid Weblate (staging)
     url: https://weblate-test.eurid.eu/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Solocoo Weblate
     url: https://translate.solocoo.tv/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Lime Weblate
     url: https://translate.lime.tech/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Mattermost Weblate
     url: https://translate.mattermost.com/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: UL Weblate
     url: https://ul.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Medvice Weblate
     url: https://medvice.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Sourceability Weblate
     url: https://sourceability.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Vernier Weblate
     url: https://vernier.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Profil Klett Weblate
     url: https://profil-klett.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Preventis Weblate
     url: https://preventis.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: SNOMED Weblate
     url: https://translate.snomedtools.org/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Shayp Weblate
     url: https://weblate.shayp.io/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Universal Music Weblate
     url: https://umusic.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Doka Weblate
     url: https://translation.umdaschgroup.com
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Manor Weblate
     url: https://manor.weblate.cloud
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: MetaBrainz Weblate
     url: https://translations.metabrainz.org/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Pascom Weblate
     url: https://translate.pascom.net/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Artefactual's Weblate
     url: https://translations.artefactual.com/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: LS Weblate
     url: https://t-hive.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Salling Weblate
     url: https://salling.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Teamhero Weblate
     url: https://wl.teamhero.de/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: webit Weblate
     url: https://webit.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Schiller Weblate
     url: https://translate.schiller.fr/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Spaziodati Weblate
     url: https://spaziodati.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Papirfly Weblate
     url: https://papirfly.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Syncron Weblate
     url: https://syncron.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: AUVESY Weblate
     url: https://weblate.auvesy-mdt.com/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
     method: HEAD
   - name: OpenStack Weblate
     url: https://openstack.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: UN OHCHR Weblate
     url: https://unohchr.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: BuildingLink Weblate
     url: https://buildinglink.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Qosenergy Weblate
     url: https://weblate.qosenergy.it/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
 # IP filtering
 #  - name: SAS Weblate
 #    url: https://weblate.santanderauto.systems/
@@ -142,141 +185,187 @@ sites:
   - name: AIDU Weblate
     url: https://aidu.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: MoJ Weblate
     url: https://moj.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: AlphaPet Weblate
     url: https://alphapet.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Enovation Weblate
     url: https://enovation.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: ElPro Weblate
     url: https://elpro.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: openSUSE Weblate
     url: https://l10n.opensuse.org/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: QICS Weblate
     url: https://qics.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Shypple Weblate
     url: https://weblate.shypple.com/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: BIT Weblate
     url: https://bit.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Uniper Weblate
     url: https://uniper.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Shoptet Weblate
     url: https://shoptet.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: ISAGRI Weblate
     url: https://isagri.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: niceshops Weblate
     url: https://translate.niceshops.com/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Numia Weblate
     url: https:/weblate.numia.co/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Click&Boat Weblate
     url: https://translation.group.cab/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: BMAT Weblate
     url: https://bmat.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: momox Weblate
     url: https://weblate.mb.int.momox.biz/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Exporto Weblate
     url: https://weblate.exporto.io/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: EasternGraphics Weblate
     url: https://weblate.easterngraphics.com/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: TKE Weblate
     url: https://tke.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Keypro Weblate
     url: https://keypro.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Synerise Weblate
     url: https://synerise.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: VirtualMinds Weblate
     url: https://weblate.virtualminds.com/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Zenith Watches Weblate
     url: https://zenith-watches.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Cosmica Weblate
     url: https://cosmica.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: HIWIN Weblate
     url: https://weblate.hiwin.dev/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: New Immo Group Weblate
     url: https://weblate.new-immo-group.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: REMIRA Weblate
     url: https://translation.remira.com/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Sendmarc Weblate
     url: https://translate.sendmarc.com/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Second Dinner Weblate
     url: https://seconddinner.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Ocuco Weblate
     url: https://ocuco.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: XCNT Weblate
     url: https://xcnt.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Pressbooks Weblate
     url: https://translate.pressbooks.org/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Localization Lab Weblate
     url: https://localizationlab.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Cerivo Weblate
     url: https://cerivo.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Civitech Weblate
     url: https://civitech.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: IPFIN Weblate
     url: https://ipfin.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Shapr3D Weblate
     url: https://shapr3d.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: INTERcept Weblate
     url: https://intercept.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: BRITA Weblate
     url: https://britagroup.weblate.cloud/manage/users/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: WorkshopReport Weblate
     url: https://workshopreport.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Directadmin Weblate
     url: https://da.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: OLYMPUS Weblate
     url: https://olympus.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Swiss Post Weblate
     url: https://swisspost.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: Nuance Weblate
     url: https://nuance.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
   - name: STAUBLI Weblate
     url: https://staubli.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
