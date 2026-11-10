@@ -366,6 +366,10 @@ sites:
     url: https://staubli.weblate.cloud/
     icon: https://s.weblate.org/cdn/logo-32.png
     headers: *monitoring_headers
+  - name: MNC Weblate
+    url: https://mnc.weblate.cloud/
+    icon: https://s.weblate.org/cdn/logo-32.png
+    headers: *monitoring_headers
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
